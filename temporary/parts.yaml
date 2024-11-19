@@ -1,0 +1,3131 @@
+hardware_screw_countersunk_m3_black_25_mm_length_hex_head:
+  barcode_manufacturer_metalmate: '5050420669078'
+  bip_39_word_dash_1: segment
+  bip_39_word_dash_10: segment-spare-cause-hungry-gorilla-nerve-gym-session-friend-ribbon
+  bip_39_word_dash_11: segment-spare-cause-hungry-gorilla-nerve-gym-session-friend-ribbon-such
+  bip_39_word_dash_12: segment-spare-cause-hungry-gorilla-nerve-gym-session-friend-ribbon-such-animal
+  bip_39_word_dash_2: segment-spare
+  bip_39_word_dash_3: segment-spare-cause
+  bip_39_word_dash_4: segment-spare-cause-hungry
+  bip_39_word_dash_5: segment-spare-cause-hungry-gorilla
+  bip_39_word_dash_6: segment-spare-cause-hungry-gorilla-nerve
+  bip_39_word_dash_7: segment-spare-cause-hungry-gorilla-nerve-gym
+  bip_39_word_dash_8: segment-spare-cause-hungry-gorilla-nerve-gym-session
+  bip_39_word_dash_9: segment-spare-cause-hungry-gorilla-nerve-gym-session-friend
+  bip_39_word_new_br_1: segment
+  bip_39_word_new_br_10: segment<br>spare<br>cause<br>hungry<br>gorilla<br>nerve<br>gym<br>session<br>friend<br>ribbon
+  bip_39_word_new_br_11: segment<br>spare<br>cause<br>hungry<br>gorilla<br>nerve<br>gym<br>session<br>friend<br>ribbon<br>such
+  bip_39_word_new_br_12: segment<br>spare<br>cause<br>hungry<br>gorilla<br>nerve<br>gym<br>session<br>friend<br>ribbon<br>such<br>animal
+  bip_39_word_new_br_2: segment<br>spare
+  bip_39_word_new_br_3: segment<br>spare<br>cause
+  bip_39_word_new_br_4: segment<br>spare<br>cause<br>hungry
+  bip_39_word_new_br_5: segment<br>spare<br>cause<br>hungry<br>gorilla
+  bip_39_word_new_br_6: segment<br>spare<br>cause<br>hungry<br>gorilla<br>nerve
+  bip_39_word_new_br_7: segment<br>spare<br>cause<br>hungry<br>gorilla<br>nerve<br>gym
+  bip_39_word_new_br_8: segment<br>spare<br>cause<br>hungry<br>gorilla<br>nerve<br>gym<br>session
+  bip_39_word_new_br_9: segment<br>spare<br>cause<br>hungry<br>gorilla<br>nerve<br>gym<br>session<br>friend
+  bip_39_word_new_line_1: segment
+  bip_39_word_new_line_10: 'segment
+
+    spare
+
+    cause
+
+    hungry
+
+    gorilla
+
+    nerve
+
+    gym
+
+    session
+
+    friend
+
+    ribbon'
+  bip_39_word_new_line_11: 'segment
+
+    spare
+
+    cause
+
+    hungry
+
+    gorilla
+
+    nerve
+
+    gym
+
+    session
+
+    friend
+
+    ribbon
+
+    such'
+  bip_39_word_new_line_12: 'segment
+
+    spare
+
+    cause
+
+    hungry
+
+    gorilla
+
+    nerve
+
+    gym
+
+    session
+
+    friend
+
+    ribbon
+
+    such
+
+    animal'
+  bip_39_word_new_line_2: 'segment
+
+    spare'
+  bip_39_word_new_line_3: 'segment
+
+    spare
+
+    cause'
+  bip_39_word_new_line_4: 'segment
+
+    spare
+
+    cause
+
+    hungry'
+  bip_39_word_new_line_5: 'segment
+
+    spare
+
+    cause
+
+    hungry
+
+    gorilla'
+  bip_39_word_new_line_6: 'segment
+
+    spare
+
+    cause
+
+    hungry
+
+    gorilla
+
+    nerve'
+  bip_39_word_new_line_7: 'segment
+
+    spare
+
+    cause
+
+    hungry
+
+    gorilla
+
+    nerve
+
+    gym'
+  bip_39_word_new_line_8: 'segment
+
+    spare
+
+    cause
+
+    hungry
+
+    gorilla
+
+    nerve
+
+    gym
+
+    session'
+  bip_39_word_new_line_9: 'segment
+
+    spare
+
+    cause
+
+    hungry
+
+    gorilla
+
+    nerve
+
+    gym
+
+    session
+
+    friend'
+  bip_39_word_no_space_1: segment
+  bip_39_word_no_space_10: segmentsparecausehungrygorillanervegymsessionfriendribbon
+  bip_39_word_no_space_11: segmentsparecausehungrygorillanervegymsessionfriendribbonsuch
+  bip_39_word_no_space_12: segmentsparecausehungrygorillanervegymsessionfriendribbonsuchanimal
+  bip_39_word_no_space_2: segmentspare
+  bip_39_word_no_space_3: segmentsparecause
+  bip_39_word_no_space_4: segmentsparecausehungry
+  bip_39_word_no_space_5: segmentsparecausehungrygorilla
+  bip_39_word_no_space_6: segmentsparecausehungrygorillanerve
+  bip_39_word_no_space_7: segmentsparecausehungrygorillanervegym
+  bip_39_word_no_space_8: segmentsparecausehungrygorillanervegymsession
+  bip_39_word_no_space_9: segmentsparecausehungrygorillanervegymsessionfriend
+  bip_39_word_space_0:
+  - segment
+  - spare
+  - cause
+  - hungry
+  - gorilla
+  - nerve
+  - gym
+  - session
+  - friend
+  - ribbon
+  - such
+  - animal
+  bip_39_word_space_1: segment
+  bip_39_word_space_10: segment spare cause hungry gorilla nerve gym session friend
+    ribbon
+  bip_39_word_space_11: segment spare cause hungry gorilla nerve gym session friend
+    ribbon such
+  bip_39_word_space_12: segment spare cause hungry gorilla nerve gym session friend
+    ribbon such animal
+  bip_39_word_space_2: segment spare
+  bip_39_word_space_3: segment spare cause
+  bip_39_word_space_4: segment spare cause hungry
+  bip_39_word_space_5: segment spare cause hungry gorilla
+  bip_39_word_space_6: segment spare cause hungry gorilla nerve
+  bip_39_word_space_7: segment spare cause hungry gorilla nerve gym
+  bip_39_word_space_8: segment spare cause hungry gorilla nerve gym session
+  bip_39_word_space_9: segment spare cause hungry gorilla nerve gym session friend
+  bip_39_word_underscore_1: segment
+  bip_39_word_underscore_10: segment_spare_cause_hungry_gorilla_nerve_gym_session_friend_ribbon
+  bip_39_word_underscore_11: segment_spare_cause_hungry_gorilla_nerve_gym_session_friend_ribbon_such
+  bip_39_word_underscore_12: segment_spare_cause_hungry_gorilla_nerve_gym_session_friend_ribbon_such_animal
+  bip_39_word_underscore_2: segment_spare
+  bip_39_word_underscore_3: segment_spare_cause
+  bip_39_word_underscore_4: segment_spare_cause_hungry
+  bip_39_word_underscore_5: segment_spare_cause_hungry_gorilla
+  bip_39_word_underscore_6: segment_spare_cause_hungry_gorilla_nerve
+  bip_39_word_underscore_7: segment_spare_cause_hungry_gorilla_nerve_gym
+  bip_39_word_underscore_8: segment_spare_cause_hungry_gorilla_nerve_gym_session
+  bip_39_word_underscore_9: segment_spare_cause_hungry_gorilla_nerve_gym_session_friend
+  box_of_box_size_manufacturer_metalmate: '4800'
+  box_size_manufacturer_metalmate: '200'
+  classification: hardware
+  classification_capital: Hardware
+  classification_first_letter: h
+  classification_first_letter_upper: H
+  classification_length_1: h
+  classification_length_2: ha
+  classification_length_3: har
+  classification_length_4: hard
+  classification_length_5: hardw
+  classification_length_6: hardwa
+  classification_name: Hardware
+  classification_no_space_length_1: h
+  classification_no_space_length_2: ha
+  classification_no_space_length_3: har
+  classification_no_space_length_4: hard
+  classification_no_space_length_5: hardw
+  classification_no_space_length_6: hardwa
+  classification_no_space_upper_length_1: H
+  classification_no_space_upper_length_2: HA
+  classification_no_space_upper_length_3: HAR
+  classification_no_space_upper_length_4: HARD
+  classification_no_space_upper_length_5: HARDW
+  classification_no_space_upper_length_6: HARDWA
+  classification_upper: HARDWARE
+  classification_upper_length_1: H
+  classification_upper_length_2: HA
+  classification_upper_length_3: HAR
+  classification_upper_length_4: HARD
+  classification_upper_length_5: HARDW
+  classification_upper_length_6: HARDWA
+  color: black
+  color_capital: Black
+  color_first_letter: b
+  color_first_letter_upper: B
+  color_length_1: b
+  color_length_2: bl
+  color_length_3: bla
+  color_length_4: blac
+  color_length_5: black
+  color_length_6: black
+  color_name: Black
+  color_no_space_length_1: b
+  color_no_space_length_2: bl
+  color_no_space_length_3: bla
+  color_no_space_length_4: blac
+  color_no_space_length_5: black
+  color_no_space_length_6: black
+  color_no_space_upper_length_1: B
+  color_no_space_upper_length_2: BL
+  color_no_space_upper_length_3: BLA
+  color_no_space_upper_length_4: BLAC
+  color_no_space_upper_length_5: BLACK
+  color_no_space_upper_length_6: BLACK
+  color_upper: BLACK
+  color_upper_length_1: B
+  color_upper_length_2: BL
+  color_upper_length_3: BLA
+  color_upper_length_4: BLAC
+  color_upper_length_5: BLACK
+  color_upper_length_6: BLACK
+  commonity_code: '7318156890'
+  description_extra: hex_head
+  description_extra_capital: Hex Head
+  description_extra_first_letter: h
+  description_extra_first_letter_upper: H
+  description_extra_length_1: h
+  description_extra_length_2: he
+  description_extra_length_3: hex
+  description_extra_length_4: hex_
+  description_extra_length_5: hex_h
+  description_extra_length_6: hex_he
+  description_extra_name: Hex Head
+  description_extra_no_space_length_1: h
+  description_extra_no_space_length_2: he
+  description_extra_no_space_length_3: hex
+  description_extra_no_space_length_4: hexh
+  description_extra_no_space_length_5: hexhe
+  description_extra_no_space_length_6: hexhea
+  description_extra_no_space_upper_length_1: H
+  description_extra_no_space_upper_length_2: HE
+  description_extra_no_space_upper_length_3: HEX
+  description_extra_no_space_upper_length_4: HEXH
+  description_extra_no_space_upper_length_5: HEXHE
+  description_extra_no_space_upper_length_6: HEXHEA
+  description_extra_upper: HEX_HEAD
+  description_extra_upper_length_1: H
+  description_extra_upper_length_2: HE
+  description_extra_upper_length_3: HEX
+  description_extra_upper_length_4: HEX_
+  description_extra_upper_length_5: HEX_H
+  description_extra_upper_length_6: HEX_HE
+  description_main: 25_mm_length
+  description_main_capital: 25 mm Length
+  description_main_first_letter: '2'
+  description_main_first_letter_upper: '2'
+  description_main_length_1: '2'
+  description_main_length_2: '25'
+  description_main_length_3: '25_'
+  description_main_length_4: 25_m
+  description_main_length_5: 25_mm
+  description_main_length_6: 25_mm_
+  description_main_name: 25 mm Length
+  description_main_no_space_length_1: '2'
+  description_main_no_space_length_2: '25'
+  description_main_no_space_length_3: 25m
+  description_main_no_space_length_4: 25mm
+  description_main_no_space_length_5: 25mml
+  description_main_no_space_length_6: 25mmle
+  description_main_no_space_upper_length_1: '2'
+  description_main_no_space_upper_length_2: '25'
+  description_main_no_space_upper_length_3: 25M
+  description_main_no_space_upper_length_4: 25MM
+  description_main_no_space_upper_length_5: 25MML
+  description_main_no_space_upper_length_6: 25MMLE
+  description_main_upper: 25_MM_LENGTH
+  description_main_upper_length_1: '2'
+  description_main_upper_length_2: '25'
+  description_main_upper_length_3: '25_'
+  description_main_upper_length_4: 25_M
+  description_main_upper_length_5: 25_MM
+  description_main_upper_length_6: 25_MM_
+  description_only_numbers: '25'
+  description_only_numbers_short: '25'
+  description_or_color: B25
+  description_or_color_upper: B25
+  directory: parts/hardware_screw_countersunk_m3_black_25_mm_length_hex_head
+  distributor_current: orbital_fasteners
+  distributors: []
+  filter: ''
+  from_yaml: false
+  github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/hardware_screw_countersunk_m3_black_25_mm_length_hex_head
+  id: hardware_screw_countersunk_m3_black_25_mm_length_hex_head
+  id_no_class: screw_countersunk_m3_black_25_mm_length_hex_head
+  id_no_color: 25_mm_length_hex_head
+  id_no_size: black_25_mm_length_hex_head
+  id_no_type: m3_black_25_mm_length_hex_head
+  kicad_reference: ''
+  link_1: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/hardware_screw_countersunk_m3_black_25_mm_length_hex_head
+  link_1_name: link_main
+  link_2: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/hardware_screw_countersunk_m3_black_25_mm_length_hex_head
+  link_2_name: github_link
+  link_3: https://www.orbitalfasteners.co.uk/products/m3-x-25-socket-screw-countersunk-high-tensile-grade-10-9-self-colour-din-7991
+  link_3_name: webpage_distributor_orbital_fasteners
+  link_4: https://www.accu.co.uk/countersunk-socket-head-screws/472020-SSK-M3-25-10-9
+  link_4_name: webpage_distributor_accu
+  link_5: https://www.harclob2b.com/m3-x-25-socket-csk-screw-gr10-9-self-colour-din-79-1151m390025
+  link_5_name: webpage_manufacturer_metalmate
+  link_buy: https://www.orbitalfasteners.co.uk/products/m3-x-25-socket-screw-countersunk-high-tensile-grade-10-9-self-colour-din-7991
+  link_buy_1: https://www.orbitalfasteners.co.uk/products/m3-x-25-socket-screw-countersunk-high-tensile-grade-10-9-self-colour-din-7991
+  link_buy_1_name: webpage_distributor_orbital_fasteners
+  link_buy_2: https://www.accu.co.uk/countersunk-socket-head-screws/472020-SSK-M3-25-10-9
+  link_buy_2_name: webpage_distributor_accu
+  link_buy_name: orbital_fasteners
+  link_main: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/hardware_screw_countersunk_m3_black_25_mm_length_hex_head
+  link_oomlout_label_2x1: http://192.168.1.242:1112/?label=oomp%205onam
+  link_oomlout_label_3x2: http://192.168.1.245:1112/?label=oomp%205onam
+  link_oomlout_label_6x4: http://192.168.1.55:1112/?label=oomp%205onam
+  manufacturer: ''
+  manufacturer_capital: ''
+  manufacturer_first_letter: ''
+  manufacturer_first_letter_upper: ''
+  manufacturer_name: ''
+  manufacturer_upper: ''
+  manufacturers: []
+  markdown_full: '[hardware_screw_countersunk_m3_black_25_mm_length_hex_head](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/hardware_screw_countersunk_m3_black_25_mm_length_hex_head)<br>[cs3b25h](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/hardware_screw_countersunk_m3_black_25_mm_length_hex_head)<br>[Hardware
+    Screw Countersunk M3 Black 25 Mm Length Hex Head](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/hardware_screw_countersunk_m3_black_25_mm_length_hex_head)<br><br>'
+  markdown_short: '[hardware_screw_countersunk_m3_black_25_mm_length_hex_head](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/hardware_screw_countersunk_m3_black_25_mm_length_hex_head)<br><br>'
+  md5: 91b0ee42e7c44d0251b256f449341e19
+  md5_10: 91b0ee42e7
+  md5_10_upper: 91B0EE42E7
+  md5_5: 91b0e
+  md5_5_upper: 91B0E
+  md5_6: 91b0ee
+  md5_6_alpha: 5onam
+  md5_6_alpha_upper: 5ONAM
+  md5_6_upper: 91B0EE
+  name: Hardware Screw Countersunk M3 Black 25 mm Length Hex Head
+  name_manufacturer_metalmate: M3 x 25 Socket Csk Screw Gr10.9 Self Colour DIN 7991
+    165
+  name_no_class: Screw Countersunk M3 Black 25 mm Length Hex Head
+  name_no_color: 25 mm Length Hex Head
+  name_no_size: Black 25 mm Length Hex Head
+  name_no_size_short: Black 25 Mm Length Hex Head
+  name_no_type: M3 Black 25 mm Length Hex Head
+  oomlout_bolt_color: Black
+  oomlout_bolt_head_type: Hex Head
+  oomlout_bolt_head_type_diagram: head_type_diagram.png
+  oomlout_bolt_length: 25 mm
+  oomlout_bolt_length_no_unit: '25'
+  oomlout_bolt_md5_6_alpha_first_3: 5on
+  oomlout_bolt_md5_6_alpha_first_3_upper: 5ON
+  oomlout_bolt_md5_6_alpha_last_3: am
+  oomlout_bolt_md5_6_alpha_last_3_upper: AM
+  oomlout_bolt_md5_6_first_3: 91b
+  oomlout_bolt_md5_6_first_3_upper: 91B
+  oomlout_bolt_md5_6_last_3: 0ee
+  oomlout_bolt_md5_6_last_3_upper: 0EE
+  oomlout_bolt_name: Countersunk M3X25 mm Black (Hex Head)
+  oomlout_bolt_size: M3
+  oomlout_bolt_type: Countersunk
+  oomlout_bolt_type_diagram_diagram: type_diagram.png
+  oomlout_oomp_utility_custom_data_manipulation: true
+  oomlout_short_code: cs3b25h
+  oomlout_short_code_upper: CS3B25H
+  oomp_id: hardware_screw_countersunk_m3_black_25_mm_length_hex_head
+  oomp_key: oomp_hardware_screw_countersunk_m3_black_25_mm_length_hex_head
+  oomp_word: pushpin crown ambulance
+  oomp_word_emoji: ':pushpin: :crown: :ambulance:'
+  oomp_word_emoji_list:
+  - ':pushpin:'
+  - ':crown:'
+  - ':ambulance:'
+  oomp_word_list:
+  - pushpin
+  - crown
+  - ambulance
+  part_number: ''
+  part_number_capital: ''
+  part_number_distributor_accu: SSK-M3-25-10.9
+  part_number_distributor_accu_search: SSK-M3-25-10.9+-zinc
+  part_number_distributor_orbital_fasteners: '1901051'
+  part_number_first_letter: ''
+  part_number_first_letter_upper: ''
+  part_number_manufacturer_metalmate: 1151M390025
+  part_number_name: ''
+  part_number_upper: ''
+  price_1: '0.0424'
+  price_100: '0.0424'
+  price_1000: '0.0188'
+  price_10000: '0.0188'
+  price_10000_distributor_1: '0.0188'
+  price_10000_distributor_2: '0.07'
+  price_10000_distributor_accu: '0.07'
+  price_10000_distributor_orbital_fasteners: '0.0188'
+  price_10000_name: orbital_fasteners
+  price_1000_distributor_1: '0.0188'
+  price_1000_distributor_2: '0.07'
+  price_1000_distributor_accu: '0.07'
+  price_1000_distributor_orbital_fasteners: '0.0188'
+  price_1000_name: orbital_fasteners
+  price_100_distributor_1: '0.0424'
+  price_100_distributor_2: '0.09'
+  price_100_distributor_accu: '0.09'
+  price_100_distributor_orbital_fasteners: '0.0424'
+  price_100_name: orbital_fasteners
+  price_1_distributor_1: '0.0424'
+  price_1_distributor_2: '0.71'
+  price_1_distributor_accu: '0.71'
+  price_1_distributor_orbital_fasteners: '0.0424'
+  price_1_name: orbital_fasteners
+  price_200: '0.0235'
+  price_200_distributor_1: '0.0235'
+  price_200_distributor_2: '0.09'
+  price_200_distributor_accu: '0.09'
+  price_200_distributor_orbital_fasteners: '0.0235'
+  price_200_name: orbital_fasteners
+  price_2_name: accu
+  price_current: '0.0235'
+  project_bolt_tray_capacity_oobb_2_5_width_2_length_18_mm_depth: '20'
+  project_bolt_tray_capacity_oobb_4_width_2_5_length_18_mm_depth: '40'
+  project_bolt_tray_capacity_oobb_4_width_2_5_length_18_mm_depth_weight: '46.76'
+  quantity_current: '200'
+  short_code: cs3b25h
+  short_code_upper: CS3B25H
+  size: m3
+  size_capital: M3
+  size_first_letter: m
+  size_first_letter_upper: M
+  size_length_1: m
+  size_length_2: m3
+  size_length_3: m3
+  size_length_4: m3
+  size_length_5: m3
+  size_length_6: m3
+  size_name: M3
+  size_no_space_length_1: m
+  size_no_space_length_2: m3
+  size_no_space_length_3: m3
+  size_no_space_length_4: m3
+  size_no_space_length_5: m3
+  size_no_space_length_6: m3
+  size_no_space_upper_length_1: M
+  size_no_space_upper_length_2: M3
+  size_no_space_upper_length_3: M3
+  size_no_space_upper_length_4: M3
+  size_no_space_upper_length_5: M3
+  size_no_space_upper_length_6: M3
+  size_only_numbers: '3'
+  size_only_numbers_no_zeros: '3'
+  size_upper: M3
+  size_upper_length_1: M
+  size_upper_length_2: M3
+  size_upper_length_3: M3
+  size_upper_length_4: M3
+  size_upper_length_5: M3
+  size_upper_length_6: M3
+  type: screw_countersunk
+  type_capital: Screw Countersunk
+  type_first_letter: s
+  type_first_letter_upper: S
+  type_length_1: s
+  type_length_2: sc
+  type_length_3: scr
+  type_length_4: scre
+  type_length_5: screw
+  type_length_6: screw_
+  type_name: Screw Countersunk
+  type_no_space_length_1: s
+  type_no_space_length_2: sc
+  type_no_space_length_3: scr
+  type_no_space_length_4: scre
+  type_no_space_length_5: screw
+  type_no_space_length_6: screwc
+  type_no_space_upper_length_1: S
+  type_no_space_upper_length_2: SC
+  type_no_space_upper_length_3: SCR
+  type_no_space_upper_length_4: SCRE
+  type_no_space_upper_length_5: SCREW
+  type_no_space_upper_length_6: SCREWC
+  type_upper: SCREW_COUNTERSUNK
+  type_upper_length_1: S
+  type_upper_length_2: SC
+  type_upper_length_3: SCR
+  type_upper_length_4: SCRE
+  type_upper_length_5: SCREW
+  type_upper_length_6: SCREW_
+  webpage_distributor_accu: https://www.accu.co.uk/countersunk-socket-head-screws/472020-SSK-M3-25-10-9
+  webpage_distributor_orbital_fasteners: https://www.orbitalfasteners.co.uk/products/m3-x-25-socket-screw-countersunk-high-tensile-grade-10-9-self-colour-din-7991
+  webpage_manufacturer_metalmate: https://www.harclob2b.com/m3-x-25-socket-csk-screw-gr10-9-self-colour-din-79-1151m390025
+  weight: '1.169'
+  weight_10: '11.69'
+hardware_screw_countersunk_m4_black_25_mm_length_hex_head:
+  barcode_manufacturer_metalmate: '5050420669139'
+  bip_39_word_dash_1: poem
+  bip_39_word_dash_10: poem-maze-indoor-novel-label-dizzy-print-glide-wheel-try
+  bip_39_word_dash_11: poem-maze-indoor-novel-label-dizzy-print-glide-wheel-try-mosquito
+  bip_39_word_dash_12: poem-maze-indoor-novel-label-dizzy-print-glide-wheel-try-mosquito-artefact
+  bip_39_word_dash_2: poem-maze
+  bip_39_word_dash_3: poem-maze-indoor
+  bip_39_word_dash_4: poem-maze-indoor-novel
+  bip_39_word_dash_5: poem-maze-indoor-novel-label
+  bip_39_word_dash_6: poem-maze-indoor-novel-label-dizzy
+  bip_39_word_dash_7: poem-maze-indoor-novel-label-dizzy-print
+  bip_39_word_dash_8: poem-maze-indoor-novel-label-dizzy-print-glide
+  bip_39_word_dash_9: poem-maze-indoor-novel-label-dizzy-print-glide-wheel
+  bip_39_word_new_br_1: poem
+  bip_39_word_new_br_10: poem<br>maze<br>indoor<br>novel<br>label<br>dizzy<br>print<br>glide<br>wheel<br>try
+  bip_39_word_new_br_11: poem<br>maze<br>indoor<br>novel<br>label<br>dizzy<br>print<br>glide<br>wheel<br>try<br>mosquito
+  bip_39_word_new_br_12: poem<br>maze<br>indoor<br>novel<br>label<br>dizzy<br>print<br>glide<br>wheel<br>try<br>mosquito<br>artefact
+  bip_39_word_new_br_2: poem<br>maze
+  bip_39_word_new_br_3: poem<br>maze<br>indoor
+  bip_39_word_new_br_4: poem<br>maze<br>indoor<br>novel
+  bip_39_word_new_br_5: poem<br>maze<br>indoor<br>novel<br>label
+  bip_39_word_new_br_6: poem<br>maze<br>indoor<br>novel<br>label<br>dizzy
+  bip_39_word_new_br_7: poem<br>maze<br>indoor<br>novel<br>label<br>dizzy<br>print
+  bip_39_word_new_br_8: poem<br>maze<br>indoor<br>novel<br>label<br>dizzy<br>print<br>glide
+  bip_39_word_new_br_9: poem<br>maze<br>indoor<br>novel<br>label<br>dizzy<br>print<br>glide<br>wheel
+  bip_39_word_new_line_1: poem
+  bip_39_word_new_line_10: 'poem
+
+    maze
+
+    indoor
+
+    novel
+
+    label
+
+    dizzy
+
+    print
+
+    glide
+
+    wheel
+
+    try'
+  bip_39_word_new_line_11: 'poem
+
+    maze
+
+    indoor
+
+    novel
+
+    label
+
+    dizzy
+
+    print
+
+    glide
+
+    wheel
+
+    try
+
+    mosquito'
+  bip_39_word_new_line_12: 'poem
+
+    maze
+
+    indoor
+
+    novel
+
+    label
+
+    dizzy
+
+    print
+
+    glide
+
+    wheel
+
+    try
+
+    mosquito
+
+    artefact'
+  bip_39_word_new_line_2: 'poem
+
+    maze'
+  bip_39_word_new_line_3: 'poem
+
+    maze
+
+    indoor'
+  bip_39_word_new_line_4: 'poem
+
+    maze
+
+    indoor
+
+    novel'
+  bip_39_word_new_line_5: 'poem
+
+    maze
+
+    indoor
+
+    novel
+
+    label'
+  bip_39_word_new_line_6: 'poem
+
+    maze
+
+    indoor
+
+    novel
+
+    label
+
+    dizzy'
+  bip_39_word_new_line_7: 'poem
+
+    maze
+
+    indoor
+
+    novel
+
+    label
+
+    dizzy
+
+    print'
+  bip_39_word_new_line_8: 'poem
+
+    maze
+
+    indoor
+
+    novel
+
+    label
+
+    dizzy
+
+    print
+
+    glide'
+  bip_39_word_new_line_9: 'poem
+
+    maze
+
+    indoor
+
+    novel
+
+    label
+
+    dizzy
+
+    print
+
+    glide
+
+    wheel'
+  bip_39_word_no_space_1: poem
+  bip_39_word_no_space_10: poemmazeindoornovellabeldizzyprintglidewheeltry
+  bip_39_word_no_space_11: poemmazeindoornovellabeldizzyprintglidewheeltrymosquito
+  bip_39_word_no_space_12: poemmazeindoornovellabeldizzyprintglidewheeltrymosquitoartefact
+  bip_39_word_no_space_2: poemmaze
+  bip_39_word_no_space_3: poemmazeindoor
+  bip_39_word_no_space_4: poemmazeindoornovel
+  bip_39_word_no_space_5: poemmazeindoornovellabel
+  bip_39_word_no_space_6: poemmazeindoornovellabeldizzy
+  bip_39_word_no_space_7: poemmazeindoornovellabeldizzyprint
+  bip_39_word_no_space_8: poemmazeindoornovellabeldizzyprintglide
+  bip_39_word_no_space_9: poemmazeindoornovellabeldizzyprintglidewheel
+  bip_39_word_space_0:
+  - poem
+  - maze
+  - indoor
+  - novel
+  - label
+  - dizzy
+  - print
+  - glide
+  - wheel
+  - try
+  - mosquito
+  - artefact
+  bip_39_word_space_1: poem
+  bip_39_word_space_10: poem maze indoor novel label dizzy print glide wheel try
+  bip_39_word_space_11: poem maze indoor novel label dizzy print glide wheel try mosquito
+  bip_39_word_space_12: poem maze indoor novel label dizzy print glide wheel try mosquito
+    artefact
+  bip_39_word_space_2: poem maze
+  bip_39_word_space_3: poem maze indoor
+  bip_39_word_space_4: poem maze indoor novel
+  bip_39_word_space_5: poem maze indoor novel label
+  bip_39_word_space_6: poem maze indoor novel label dizzy
+  bip_39_word_space_7: poem maze indoor novel label dizzy print
+  bip_39_word_space_8: poem maze indoor novel label dizzy print glide
+  bip_39_word_space_9: poem maze indoor novel label dizzy print glide wheel
+  bip_39_word_underscore_1: poem
+  bip_39_word_underscore_10: poem_maze_indoor_novel_label_dizzy_print_glide_wheel_try
+  bip_39_word_underscore_11: poem_maze_indoor_novel_label_dizzy_print_glide_wheel_try_mosquito
+  bip_39_word_underscore_12: poem_maze_indoor_novel_label_dizzy_print_glide_wheel_try_mosquito_artefact
+  bip_39_word_underscore_2: poem_maze
+  bip_39_word_underscore_3: poem_maze_indoor
+  bip_39_word_underscore_4: poem_maze_indoor_novel
+  bip_39_word_underscore_5: poem_maze_indoor_novel_label
+  bip_39_word_underscore_6: poem_maze_indoor_novel_label_dizzy
+  bip_39_word_underscore_7: poem_maze_indoor_novel_label_dizzy_print
+  bip_39_word_underscore_8: poem_maze_indoor_novel_label_dizzy_print_glide
+  bip_39_word_underscore_9: poem_maze_indoor_novel_label_dizzy_print_glide_wheel
+  box_of_box_size_manufacturer_metalmate: '4800'
+  box_size_manufacturer_metalmate: '200'
+  classification: hardware
+  classification_capital: Hardware
+  classification_first_letter: h
+  classification_first_letter_upper: H
+  classification_length_1: h
+  classification_length_2: ha
+  classification_length_3: har
+  classification_length_4: hard
+  classification_length_5: hardw
+  classification_length_6: hardwa
+  classification_name: Hardware
+  classification_no_space_length_1: h
+  classification_no_space_length_2: ha
+  classification_no_space_length_3: har
+  classification_no_space_length_4: hard
+  classification_no_space_length_5: hardw
+  classification_no_space_length_6: hardwa
+  classification_no_space_upper_length_1: H
+  classification_no_space_upper_length_2: HA
+  classification_no_space_upper_length_3: HAR
+  classification_no_space_upper_length_4: HARD
+  classification_no_space_upper_length_5: HARDW
+  classification_no_space_upper_length_6: HARDWA
+  classification_upper: HARDWARE
+  classification_upper_length_1: H
+  classification_upper_length_2: HA
+  classification_upper_length_3: HAR
+  classification_upper_length_4: HARD
+  classification_upper_length_5: HARDW
+  classification_upper_length_6: HARDWA
+  color: black
+  color_capital: Black
+  color_first_letter: b
+  color_first_letter_upper: B
+  color_length_1: b
+  color_length_2: bl
+  color_length_3: bla
+  color_length_4: blac
+  color_length_5: black
+  color_length_6: black
+  color_name: Black
+  color_no_space_length_1: b
+  color_no_space_length_2: bl
+  color_no_space_length_3: bla
+  color_no_space_length_4: blac
+  color_no_space_length_5: black
+  color_no_space_length_6: black
+  color_no_space_upper_length_1: B
+  color_no_space_upper_length_2: BL
+  color_no_space_upper_length_3: BLA
+  color_no_space_upper_length_4: BLAC
+  color_no_space_upper_length_5: BLACK
+  color_no_space_upper_length_6: BLACK
+  color_upper: BLACK
+  color_upper_length_1: B
+  color_upper_length_2: BL
+  color_upper_length_3: BLA
+  color_upper_length_4: BLAC
+  color_upper_length_5: BLACK
+  color_upper_length_6: BLACK
+  commonity_code: '7318156890'
+  description_extra: hex_head
+  description_extra_capital: Hex Head
+  description_extra_first_letter: h
+  description_extra_first_letter_upper: H
+  description_extra_length_1: h
+  description_extra_length_2: he
+  description_extra_length_3: hex
+  description_extra_length_4: hex_
+  description_extra_length_5: hex_h
+  description_extra_length_6: hex_he
+  description_extra_name: Hex Head
+  description_extra_no_space_length_1: h
+  description_extra_no_space_length_2: he
+  description_extra_no_space_length_3: hex
+  description_extra_no_space_length_4: hexh
+  description_extra_no_space_length_5: hexhe
+  description_extra_no_space_length_6: hexhea
+  description_extra_no_space_upper_length_1: H
+  description_extra_no_space_upper_length_2: HE
+  description_extra_no_space_upper_length_3: HEX
+  description_extra_no_space_upper_length_4: HEXH
+  description_extra_no_space_upper_length_5: HEXHE
+  description_extra_no_space_upper_length_6: HEXHEA
+  description_extra_upper: HEX_HEAD
+  description_extra_upper_length_1: H
+  description_extra_upper_length_2: HE
+  description_extra_upper_length_3: HEX
+  description_extra_upper_length_4: HEX_
+  description_extra_upper_length_5: HEX_H
+  description_extra_upper_length_6: HEX_HE
+  description_main: 25_mm_length
+  description_main_capital: 25 mm Length
+  description_main_first_letter: '2'
+  description_main_first_letter_upper: '2'
+  description_main_length_1: '2'
+  description_main_length_2: '25'
+  description_main_length_3: '25_'
+  description_main_length_4: 25_m
+  description_main_length_5: 25_mm
+  description_main_length_6: 25_mm_
+  description_main_name: 25 mm Length
+  description_main_no_space_length_1: '2'
+  description_main_no_space_length_2: '25'
+  description_main_no_space_length_3: 25m
+  description_main_no_space_length_4: 25mm
+  description_main_no_space_length_5: 25mml
+  description_main_no_space_length_6: 25mmle
+  description_main_no_space_upper_length_1: '2'
+  description_main_no_space_upper_length_2: '25'
+  description_main_no_space_upper_length_3: 25M
+  description_main_no_space_upper_length_4: 25MM
+  description_main_no_space_upper_length_5: 25MML
+  description_main_no_space_upper_length_6: 25MMLE
+  description_main_upper: 25_MM_LENGTH
+  description_main_upper_length_1: '2'
+  description_main_upper_length_2: '25'
+  description_main_upper_length_3: '25_'
+  description_main_upper_length_4: 25_M
+  description_main_upper_length_5: 25_MM
+  description_main_upper_length_6: 25_MM_
+  description_only_numbers: '25'
+  description_only_numbers_short: '25'
+  description_or_color: B25
+  description_or_color_upper: B25
+  directory: parts/hardware_screw_countersunk_m4_black_25_mm_length_hex_head
+  distributor_current: orbital_fasteners
+  distributors: []
+  filter: ''
+  from_yaml: false
+  github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/hardware_screw_countersunk_m4_black_25_mm_length_hex_head
+  id: hardware_screw_countersunk_m4_black_25_mm_length_hex_head
+  id_no_class: screw_countersunk_m4_black_25_mm_length_hex_head
+  id_no_color: 25_mm_length_hex_head
+  id_no_size: black_25_mm_length_hex_head
+  id_no_type: m4_black_25_mm_length_hex_head
+  kicad_reference: ''
+  link_1: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/hardware_screw_countersunk_m4_black_25_mm_length_hex_head
+  link_1_name: link_main
+  link_2: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/hardware_screw_countersunk_m4_black_25_mm_length_hex_head
+  link_2_name: github_link
+  link_3: https://www.orbitalfasteners.co.uk/products/m4-x-25-socket-screw-countersunk-high-tensile-grade-10-9-self-colour-din-7991
+  link_3_name: webpage_distributor_orbital_fasteners
+  link_4: https://www.accu.co.uk/countersunk-socket-head-screws/472027-SSK-M4-25-10-9
+  link_4_name: webpage_distributor_accu
+  link_5: https://www.harclob2b.com/m4-x-25-socket-csk-screw-gr10-9-self-colour-din-79-1151m450025
+  link_5_name: webpage_manufacturer_metalmate
+  link_buy: https://www.orbitalfasteners.co.uk/products/m4-x-25-socket-screw-countersunk-high-tensile-grade-10-9-self-colour-din-7991
+  link_buy_1: https://www.orbitalfasteners.co.uk/products/m4-x-25-socket-screw-countersunk-high-tensile-grade-10-9-self-colour-din-7991
+  link_buy_1_name: webpage_distributor_orbital_fasteners
+  link_buy_2: https://www.accu.co.uk/countersunk-socket-head-screws/472027-SSK-M4-25-10-9
+  link_buy_2_name: webpage_distributor_accu
+  link_buy_name: orbital_fasteners
+  link_main: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/hardware_screw_countersunk_m4_black_25_mm_length_hex_head
+  link_oomlout_label_2x1: http://192.168.1.242:1112/?label=oomp%2082xx6
+  link_oomlout_label_3x2: http://192.168.1.245:1112/?label=oomp%2082xx6
+  link_oomlout_label_6x4: http://192.168.1.55:1112/?label=oomp%2082xx6
+  manufacturer: ''
+  manufacturer_capital: ''
+  manufacturer_first_letter: ''
+  manufacturer_first_letter_upper: ''
+  manufacturer_name: ''
+  manufacturer_upper: ''
+  manufacturers: []
+  markdown_full: '[hardware_screw_countersunk_m4_black_25_mm_length_hex_head](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/hardware_screw_countersunk_m4_black_25_mm_length_hex_head)<br>[cs4b25h](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/hardware_screw_countersunk_m4_black_25_mm_length_hex_head)<br>[Hardware
+    Screw Countersunk M4 Black 25 Mm Length Hex Head](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/hardware_screw_countersunk_m4_black_25_mm_length_hex_head)<br><br>'
+  markdown_short: '[hardware_screw_countersunk_m4_black_25_mm_length_hex_head](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/hardware_screw_countersunk_m4_black_25_mm_length_hex_head)<br><br>'
+  md5: cf203a7fd063155900be1970e6226538
+  md5_10: cf203a7fd0
+  md5_10_upper: CF203A7FD0
+  md5_5: cf203
+  md5_5_upper: CF203
+  md5_6: cf203a
+  md5_6_alpha: 82xx6
+  md5_6_alpha_upper: 82XX6
+  md5_6_upper: CF203A
+  name: Hardware Screw Countersunk M4 Black 25 mm Length Hex Head
+  name_manufacturer_metalmate: M4 x 25 Socket Csk Screw Gr10.9 Self Colour DIN 7991
+    165
+  name_no_class: Screw Countersunk M4 Black 25 mm Length Hex Head
+  name_no_color: 25 mm Length Hex Head
+  name_no_size: Black 25 mm Length Hex Head
+  name_no_size_short: Black 25 Mm Length Hex Head
+  name_no_type: M4 Black 25 mm Length Hex Head
+  oomlout_bolt_color: Black
+  oomlout_bolt_head_type: Hex Head
+  oomlout_bolt_head_type_diagram: head_type_diagram.png
+  oomlout_bolt_length: 25 mm
+  oomlout_bolt_length_no_unit: '25'
+  oomlout_bolt_md5_6_alpha_first_3: 82x
+  oomlout_bolt_md5_6_alpha_first_3_upper: 82X
+  oomlout_bolt_md5_6_alpha_last_3: x6
+  oomlout_bolt_md5_6_alpha_last_3_upper: X6
+  oomlout_bolt_md5_6_first_3: cf2
+  oomlout_bolt_md5_6_first_3_upper: CF2
+  oomlout_bolt_md5_6_last_3: 03a
+  oomlout_bolt_md5_6_last_3_upper: 03A
+  oomlout_bolt_name: Countersunk M4X25 mm Black (Hex Head)
+  oomlout_bolt_size: M4
+  oomlout_bolt_type: Countersunk
+  oomlout_bolt_type_diagram_diagram: type_diagram.png
+  oomlout_oomp_utility_custom_data_manipulation: true
+  oomlout_short_code: cs4b25h
+  oomlout_short_code_upper: CS4B25H
+  oomp_id: hardware_screw_countersunk_m4_black_25_mm_length_hex_head
+  oomp_key: oomp_hardware_screw_countersunk_m4_black_25_mm_length_hex_head
+  oomp_word: melon skull koala
+  oomp_word_emoji: ':melon: :skull: :koala:'
+  oomp_word_emoji_list:
+  - ':melon:'
+  - ':skull:'
+  - ':koala:'
+  oomp_word_list:
+  - melon
+  - skull
+  - koala
+  part_number: ''
+  part_number_capital: ''
+  part_number_distributor_accu: SSK-M4-25-10.9
+  part_number_distributor_accu_search: SSK-M4-25-10.9+-zinc
+  part_number_distributor_orbital_fasteners: '1901110'
+  part_number_first_letter: ''
+  part_number_first_letter_upper: ''
+  part_number_manufacturer_metalmate: 1151M450025
+  part_number_name: ''
+  part_number_upper: ''
+  price_1: '0.0329'
+  price_100: '0.0329'
+  price_1000: '0.0146'
+  price_10000: '0.0146'
+  price_10000_distributor_1: '0.0146'
+  price_10000_distributor_2: '0.03'
+  price_10000_distributor_accu: '0.03'
+  price_10000_distributor_orbital_fasteners: '0.0146'
+  price_10000_name: orbital_fasteners
+  price_1000_distributor_1: '0.0146'
+  price_1000_distributor_2: '0.05'
+  price_1000_distributor_accu: '0.05'
+  price_1000_distributor_orbital_fasteners: '0.0146'
+  price_1000_name: orbital_fasteners
+  price_100_distributor_1: '0.0329'
+  price_100_distributor_2: '0.05'
+  price_100_distributor_accu: '0.05'
+  price_100_distributor_orbital_fasteners: '0.0329'
+  price_100_name: orbital_fasteners
+  price_1_distributor_1: '0.0329'
+  price_1_distributor_2: '0.66'
+  price_1_distributor_accu: '0.66'
+  price_1_distributor_orbital_fasteners: '0.0329'
+  price_1_name: orbital_fasteners
+  price_200: '0.0182'
+  price_200_distributor_1: '0.0182'
+  price_200_distributor_2: '0.05'
+  price_200_distributor_accu: '0.05'
+  price_200_distributor_orbital_fasteners: '0.0182'
+  price_200_name: orbital_fasteners
+  price_2_name: accu
+  price_current: missing_value
+  short_code: cs4b25h
+  short_code_upper: CS4B25H
+  size: m4
+  size_capital: M4
+  size_first_letter: m
+  size_first_letter_upper: M
+  size_length_1: m
+  size_length_2: m4
+  size_length_3: m4
+  size_length_4: m4
+  size_length_5: m4
+  size_length_6: m4
+  size_name: M4
+  size_no_space_length_1: m
+  size_no_space_length_2: m4
+  size_no_space_length_3: m4
+  size_no_space_length_4: m4
+  size_no_space_length_5: m4
+  size_no_space_length_6: m4
+  size_no_space_upper_length_1: M
+  size_no_space_upper_length_2: M4
+  size_no_space_upper_length_3: M4
+  size_no_space_upper_length_4: M4
+  size_no_space_upper_length_5: M4
+  size_no_space_upper_length_6: M4
+  size_only_numbers: '4'
+  size_only_numbers_no_zeros: '4'
+  size_upper: M4
+  size_upper_length_1: M
+  size_upper_length_2: M4
+  size_upper_length_3: M4
+  size_upper_length_4: M4
+  size_upper_length_5: M4
+  size_upper_length_6: M4
+  type: screw_countersunk
+  type_capital: Screw Countersunk
+  type_first_letter: s
+  type_first_letter_upper: S
+  type_length_1: s
+  type_length_2: sc
+  type_length_3: scr
+  type_length_4: scre
+  type_length_5: screw
+  type_length_6: screw_
+  type_name: Screw Countersunk
+  type_no_space_length_1: s
+  type_no_space_length_2: sc
+  type_no_space_length_3: scr
+  type_no_space_length_4: scre
+  type_no_space_length_5: screw
+  type_no_space_length_6: screwc
+  type_no_space_upper_length_1: S
+  type_no_space_upper_length_2: SC
+  type_no_space_upper_length_3: SCR
+  type_no_space_upper_length_4: SCRE
+  type_no_space_upper_length_5: SCREW
+  type_no_space_upper_length_6: SCREWC
+  type_upper: SCREW_COUNTERSUNK
+  type_upper_length_1: S
+  type_upper_length_2: SC
+  type_upper_length_3: SCR
+  type_upper_length_4: SCRE
+  type_upper_length_5: SCREW
+  type_upper_length_6: SCREW_
+  webpage_distributor_accu: https://www.accu.co.uk/countersunk-socket-head-screws/472027-SSK-M4-25-10-9
+  webpage_distributor_orbital_fasteners: https://www.orbitalfasteners.co.uk/products/m4-x-25-socket-screw-countersunk-high-tensile-grade-10-9-self-colour-din-7991
+  webpage_manufacturer_metalmate: https://www.harclob2b.com/m4-x-25-socket-csk-screw-gr10-9-self-colour-din-79-1151m450025
+hardware_screw_socket_cap_m3_black_25_mm_length_hex_head:
+  barcode_manufacturer_metalmate: '5050420695985'
+  bip_39_word_dash_1: acid
+  bip_39_word_dash_10: acid-sense-moment-angry-basic-waste-embrace-sunset-orange-quiz
+  bip_39_word_dash_11: acid-sense-moment-angry-basic-waste-embrace-sunset-orange-quiz-grass
+  bip_39_word_dash_12: acid-sense-moment-angry-basic-waste-embrace-sunset-orange-quiz-grass-aerobic
+  bip_39_word_dash_2: acid-sense
+  bip_39_word_dash_3: acid-sense-moment
+  bip_39_word_dash_4: acid-sense-moment-angry
+  bip_39_word_dash_5: acid-sense-moment-angry-basic
+  bip_39_word_dash_6: acid-sense-moment-angry-basic-waste
+  bip_39_word_dash_7: acid-sense-moment-angry-basic-waste-embrace
+  bip_39_word_dash_8: acid-sense-moment-angry-basic-waste-embrace-sunset
+  bip_39_word_dash_9: acid-sense-moment-angry-basic-waste-embrace-sunset-orange
+  bip_39_word_new_br_1: acid
+  bip_39_word_new_br_10: acid<br>sense<br>moment<br>angry<br>basic<br>waste<br>embrace<br>sunset<br>orange<br>quiz
+  bip_39_word_new_br_11: acid<br>sense<br>moment<br>angry<br>basic<br>waste<br>embrace<br>sunset<br>orange<br>quiz<br>grass
+  bip_39_word_new_br_12: acid<br>sense<br>moment<br>angry<br>basic<br>waste<br>embrace<br>sunset<br>orange<br>quiz<br>grass<br>aerobic
+  bip_39_word_new_br_2: acid<br>sense
+  bip_39_word_new_br_3: acid<br>sense<br>moment
+  bip_39_word_new_br_4: acid<br>sense<br>moment<br>angry
+  bip_39_word_new_br_5: acid<br>sense<br>moment<br>angry<br>basic
+  bip_39_word_new_br_6: acid<br>sense<br>moment<br>angry<br>basic<br>waste
+  bip_39_word_new_br_7: acid<br>sense<br>moment<br>angry<br>basic<br>waste<br>embrace
+  bip_39_word_new_br_8: acid<br>sense<br>moment<br>angry<br>basic<br>waste<br>embrace<br>sunset
+  bip_39_word_new_br_9: acid<br>sense<br>moment<br>angry<br>basic<br>waste<br>embrace<br>sunset<br>orange
+  bip_39_word_new_line_1: acid
+  bip_39_word_new_line_10: 'acid
+
+    sense
+
+    moment
+
+    angry
+
+    basic
+
+    waste
+
+    embrace
+
+    sunset
+
+    orange
+
+    quiz'
+  bip_39_word_new_line_11: 'acid
+
+    sense
+
+    moment
+
+    angry
+
+    basic
+
+    waste
+
+    embrace
+
+    sunset
+
+    orange
+
+    quiz
+
+    grass'
+  bip_39_word_new_line_12: 'acid
+
+    sense
+
+    moment
+
+    angry
+
+    basic
+
+    waste
+
+    embrace
+
+    sunset
+
+    orange
+
+    quiz
+
+    grass
+
+    aerobic'
+  bip_39_word_new_line_2: 'acid
+
+    sense'
+  bip_39_word_new_line_3: 'acid
+
+    sense
+
+    moment'
+  bip_39_word_new_line_4: 'acid
+
+    sense
+
+    moment
+
+    angry'
+  bip_39_word_new_line_5: 'acid
+
+    sense
+
+    moment
+
+    angry
+
+    basic'
+  bip_39_word_new_line_6: 'acid
+
+    sense
+
+    moment
+
+    angry
+
+    basic
+
+    waste'
+  bip_39_word_new_line_7: 'acid
+
+    sense
+
+    moment
+
+    angry
+
+    basic
+
+    waste
+
+    embrace'
+  bip_39_word_new_line_8: 'acid
+
+    sense
+
+    moment
+
+    angry
+
+    basic
+
+    waste
+
+    embrace
+
+    sunset'
+  bip_39_word_new_line_9: 'acid
+
+    sense
+
+    moment
+
+    angry
+
+    basic
+
+    waste
+
+    embrace
+
+    sunset
+
+    orange'
+  bip_39_word_no_space_1: acid
+  bip_39_word_no_space_10: acidsensemomentangrybasicwasteembracesunsetorangequiz
+  bip_39_word_no_space_11: acidsensemomentangrybasicwasteembracesunsetorangequizgrass
+  bip_39_word_no_space_12: acidsensemomentangrybasicwasteembracesunsetorangequizgrassaerobic
+  bip_39_word_no_space_2: acidsense
+  bip_39_word_no_space_3: acidsensemoment
+  bip_39_word_no_space_4: acidsensemomentangry
+  bip_39_word_no_space_5: acidsensemomentangrybasic
+  bip_39_word_no_space_6: acidsensemomentangrybasicwaste
+  bip_39_word_no_space_7: acidsensemomentangrybasicwasteembrace
+  bip_39_word_no_space_8: acidsensemomentangrybasicwasteembracesunset
+  bip_39_word_no_space_9: acidsensemomentangrybasicwasteembracesunsetorange
+  bip_39_word_space_0:
+  - acid
+  - sense
+  - moment
+  - angry
+  - basic
+  - waste
+  - embrace
+  - sunset
+  - orange
+  - quiz
+  - grass
+  - aerobic
+  bip_39_word_space_1: acid
+  bip_39_word_space_10: acid sense moment angry basic waste embrace sunset orange
+    quiz
+  bip_39_word_space_11: acid sense moment angry basic waste embrace sunset orange
+    quiz grass
+  bip_39_word_space_12: acid sense moment angry basic waste embrace sunset orange
+    quiz grass aerobic
+  bip_39_word_space_2: acid sense
+  bip_39_word_space_3: acid sense moment
+  bip_39_word_space_4: acid sense moment angry
+  bip_39_word_space_5: acid sense moment angry basic
+  bip_39_word_space_6: acid sense moment angry basic waste
+  bip_39_word_space_7: acid sense moment angry basic waste embrace
+  bip_39_word_space_8: acid sense moment angry basic waste embrace sunset
+  bip_39_word_space_9: acid sense moment angry basic waste embrace sunset orange
+  bip_39_word_underscore_1: acid
+  bip_39_word_underscore_10: acid_sense_moment_angry_basic_waste_embrace_sunset_orange_quiz
+  bip_39_word_underscore_11: acid_sense_moment_angry_basic_waste_embrace_sunset_orange_quiz_grass
+  bip_39_word_underscore_12: acid_sense_moment_angry_basic_waste_embrace_sunset_orange_quiz_grass_aerobic
+  bip_39_word_underscore_2: acid_sense
+  bip_39_word_underscore_3: acid_sense_moment
+  bip_39_word_underscore_4: acid_sense_moment_angry
+  bip_39_word_underscore_5: acid_sense_moment_angry_basic
+  bip_39_word_underscore_6: acid_sense_moment_angry_basic_waste
+  bip_39_word_underscore_7: acid_sense_moment_angry_basic_waste_embrace
+  bip_39_word_underscore_8: acid_sense_moment_angry_basic_waste_embrace_sunset
+  bip_39_word_underscore_9: acid_sense_moment_angry_basic_waste_embrace_sunset_orange
+  box_of_box_size_manufacturer_metalmate: '4800'
+  box_size_manufacturer_metalmate: '200'
+  classification: hardware
+  classification_capital: Hardware
+  classification_first_letter: h
+  classification_first_letter_upper: H
+  classification_length_1: h
+  classification_length_2: ha
+  classification_length_3: har
+  classification_length_4: hard
+  classification_length_5: hardw
+  classification_length_6: hardwa
+  classification_name: Hardware
+  classification_no_space_length_1: h
+  classification_no_space_length_2: ha
+  classification_no_space_length_3: har
+  classification_no_space_length_4: hard
+  classification_no_space_length_5: hardw
+  classification_no_space_length_6: hardwa
+  classification_no_space_upper_length_1: H
+  classification_no_space_upper_length_2: HA
+  classification_no_space_upper_length_3: HAR
+  classification_no_space_upper_length_4: HARD
+  classification_no_space_upper_length_5: HARDW
+  classification_no_space_upper_length_6: HARDWA
+  classification_upper: HARDWARE
+  classification_upper_length_1: H
+  classification_upper_length_2: HA
+  classification_upper_length_3: HAR
+  classification_upper_length_4: HARD
+  classification_upper_length_5: HARDW
+  classification_upper_length_6: HARDWA
+  color: black
+  color_capital: Black
+  color_first_letter: b
+  color_first_letter_upper: B
+  color_length_1: b
+  color_length_2: bl
+  color_length_3: bla
+  color_length_4: blac
+  color_length_5: black
+  color_length_6: black
+  color_name: Black
+  color_no_space_length_1: b
+  color_no_space_length_2: bl
+  color_no_space_length_3: bla
+  color_no_space_length_4: blac
+  color_no_space_length_5: black
+  color_no_space_length_6: black
+  color_no_space_upper_length_1: B
+  color_no_space_upper_length_2: BL
+  color_no_space_upper_length_3: BLA
+  color_no_space_upper_length_4: BLAC
+  color_no_space_upper_length_5: BLACK
+  color_no_space_upper_length_6: BLACK
+  color_upper: BLACK
+  color_upper_length_1: B
+  color_upper_length_2: BL
+  color_upper_length_3: BLA
+  color_upper_length_4: BLAC
+  color_upper_length_5: BLACK
+  color_upper_length_6: BLACK
+  commonity_code: '7318156890'
+  description_extra: hex_head
+  description_extra_capital: Hex Head
+  description_extra_first_letter: h
+  description_extra_first_letter_upper: H
+  description_extra_length_1: h
+  description_extra_length_2: he
+  description_extra_length_3: hex
+  description_extra_length_4: hex_
+  description_extra_length_5: hex_h
+  description_extra_length_6: hex_he
+  description_extra_name: Hex Head
+  description_extra_no_space_length_1: h
+  description_extra_no_space_length_2: he
+  description_extra_no_space_length_3: hex
+  description_extra_no_space_length_4: hexh
+  description_extra_no_space_length_5: hexhe
+  description_extra_no_space_length_6: hexhea
+  description_extra_no_space_upper_length_1: H
+  description_extra_no_space_upper_length_2: HE
+  description_extra_no_space_upper_length_3: HEX
+  description_extra_no_space_upper_length_4: HEXH
+  description_extra_no_space_upper_length_5: HEXHE
+  description_extra_no_space_upper_length_6: HEXHEA
+  description_extra_upper: HEX_HEAD
+  description_extra_upper_length_1: H
+  description_extra_upper_length_2: HE
+  description_extra_upper_length_3: HEX
+  description_extra_upper_length_4: HEX_
+  description_extra_upper_length_5: HEX_H
+  description_extra_upper_length_6: HEX_HE
+  description_main: 25_mm_length
+  description_main_capital: 25 mm Length
+  description_main_first_letter: '2'
+  description_main_first_letter_upper: '2'
+  description_main_length_1: '2'
+  description_main_length_2: '25'
+  description_main_length_3: '25_'
+  description_main_length_4: 25_m
+  description_main_length_5: 25_mm
+  description_main_length_6: 25_mm_
+  description_main_name: 25 mm Length
+  description_main_no_space_length_1: '2'
+  description_main_no_space_length_2: '25'
+  description_main_no_space_length_3: 25m
+  description_main_no_space_length_4: 25mm
+  description_main_no_space_length_5: 25mml
+  description_main_no_space_length_6: 25mmle
+  description_main_no_space_upper_length_1: '2'
+  description_main_no_space_upper_length_2: '25'
+  description_main_no_space_upper_length_3: 25M
+  description_main_no_space_upper_length_4: 25MM
+  description_main_no_space_upper_length_5: 25MML
+  description_main_no_space_upper_length_6: 25MMLE
+  description_main_upper: 25_MM_LENGTH
+  description_main_upper_length_1: '2'
+  description_main_upper_length_2: '25'
+  description_main_upper_length_3: '25_'
+  description_main_upper_length_4: 25_M
+  description_main_upper_length_5: 25_MM
+  description_main_upper_length_6: 25_MM_
+  description_only_numbers: '25'
+  description_only_numbers_short: '25'
+  description_or_color: B25
+  description_or_color_upper: B25
+  directory: parts/hardware_screw_socket_cap_m3_black_25_mm_length_hex_head
+  distributor_current: orbital_fasteners
+  distributors: []
+  filter: ''
+  from_yaml: false
+  github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/hardware_screw_socket_cap_m3_black_25_mm_length_hex_head
+  id: hardware_screw_socket_cap_m3_black_25_mm_length_hex_head
+  id_no_class: screw_socket_cap_m3_black_25_mm_length_hex_head
+  id_no_color: 25_mm_length_hex_head
+  id_no_size: black_25_mm_length_hex_head
+  id_no_type: m3_black_25_mm_length_hex_head
+  kicad_reference: ''
+  link_1: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/hardware_screw_socket_cap_m3_black_25_mm_length_hex_head
+  link_1_name: link_main
+  link_2: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/hardware_screw_socket_cap_m3_black_25_mm_length_hex_head
+  link_2_name: github_link
+  link_3: https://www.orbitalfasteners.co.uk/products/m3-x-25-socket-cap-screw-high-tensile-grade-12-9-self-colour-
+  link_3_name: webpage_distributor_orbital_fasteners
+  link_4: https://www.accu.co.uk/metric-cap-head-screws/16009-SSC-M3-25-12-9
+  link_4_name: webpage_distributor_accu
+  link_5: https://www.harclob2b.com/m3-x-25-socket-cap-screw-gr12-9-self-colour-din-91-1150m390025
+  link_5_name: webpage_manufacturer_metalmate
+  link_buy: https://www.orbitalfasteners.co.uk/products/m3-x-25-socket-cap-screw-high-tensile-grade-12-9-self-colour-
+  link_buy_1: https://www.orbitalfasteners.co.uk/products/m3-x-25-socket-cap-screw-high-tensile-grade-12-9-self-colour-
+  link_buy_1_name: webpage_distributor_orbital_fasteners
+  link_buy_2: https://www.accu.co.uk/metric-cap-head-screws/16009-SSC-M3-25-12-9
+  link_buy_2_name: webpage_distributor_accu
+  link_buy_name: orbital_fasteners
+  link_main: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/hardware_screw_socket_cap_m3_black_25_mm_length_hex_head
+  link_oomlout_label_2x1: http://192.168.1.242:1112/?label=oomp%202ltrf
+  link_oomlout_label_3x2: http://192.168.1.245:1112/?label=oomp%202ltrf
+  link_oomlout_label_6x4: http://192.168.1.55:1112/?label=oomp%202ltrf
+  manufacturer: ''
+  manufacturer_capital: ''
+  manufacturer_first_letter: ''
+  manufacturer_first_letter_upper: ''
+  manufacturer_name: ''
+  manufacturer_upper: ''
+  manufacturers: []
+  markdown_full: '[hardware_screw_socket_cap_m3_black_25_mm_length_hex_head](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/hardware_screw_socket_cap_m3_black_25_mm_length_hex_head)<br>[sc3b25h](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/hardware_screw_socket_cap_m3_black_25_mm_length_hex_head)<br>[Hardware
+    Screw Socket Cap M3 Black 25 Mm Length Hex Head](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/hardware_screw_socket_cap_m3_black_25_mm_length_hex_head)<br><br>'
+  markdown_short: '[hardware_screw_socket_cap_m3_black_25_mm_length_hex_head](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/hardware_screw_socket_cap_m3_black_25_mm_length_hex_head)<br><br>'
+  md5: 42cbebfcded98913de89808f1df0f00f
+  md5_10: 42cbebfcde
+  md5_10_upper: 42CBEBFCDE
+  md5_5: 42cbe
+  md5_5_upper: 42CBE
+  md5_6: 42cbeb
+  md5_6_alpha: 2ltrf
+  md5_6_alpha_upper: 2LTRF
+  md5_6_upper: 42CBEB
+  name: Hardware Screw Socket Cap M3 Black 25 mm Length Hex Head
+  name_manufacturer_metalmate: M3 x 25 Socket Cap Screw Gr12.9 Self Colour DIN 912
+    150
+  name_no_class: Screw Socket Cap M3 Black 25 mm Length Hex Head
+  name_no_color: 25 mm Length Hex Head
+  name_no_size: Black 25 mm Length Hex Head
+  name_no_size_short: Black 25 Mm Length Hex Head
+  name_no_type: M3 Black 25 mm Length Hex Head
+  oomlout_bolt_color: Black
+  oomlout_bolt_head_type: Hex Head
+  oomlout_bolt_head_type_diagram: head_type_diagram.png
+  oomlout_bolt_length: 25 mm
+  oomlout_bolt_length_no_unit: '25'
+  oomlout_bolt_md5_6_alpha_first_3: 2lt
+  oomlout_bolt_md5_6_alpha_first_3_upper: 2LT
+  oomlout_bolt_md5_6_alpha_last_3: rf
+  oomlout_bolt_md5_6_alpha_last_3_upper: RF
+  oomlout_bolt_md5_6_first_3: 42c
+  oomlout_bolt_md5_6_first_3_upper: 42C
+  oomlout_bolt_md5_6_last_3: beb
+  oomlout_bolt_md5_6_last_3_upper: BEB
+  oomlout_bolt_name: Socket Cap M3X25 mm Black (Hex Head)
+  oomlout_bolt_size: M3
+  oomlout_bolt_type: Socket Cap
+  oomlout_bolt_type_diagram_diagram: type_diagram.png
+  oomlout_oomp_utility_custom_data_manipulation: true
+  oomlout_short_code: sc3b25h
+  oomlout_short_code_upper: SC3B25H
+  oomp_id: hardware_screw_socket_cap_m3_black_25_mm_length_hex_head
+  oomp_key: oomp_hardware_screw_socket_cap_m3_black_25_mm_length_hex_head
+  oomp_word: sheep grapes car
+  oomp_word_emoji: ':sheep: :grapes: :car:'
+  oomp_word_emoji_list:
+  - ':sheep:'
+  - ':grapes:'
+  - ':car:'
+  oomp_word_list:
+  - sheep
+  - grapes
+  - car
+  part_number: ''
+  part_number_capital: ''
+  part_number_distributor_accu: SSCF-M3-25-12.9
+  part_number_distributor_accu_search: SSCF-M3-25-12.9+-zinc
+  part_number_distributor_orbital_fasteners: '1891052'
+  part_number_first_letter: ''
+  part_number_first_letter_upper: ''
+  part_number_manufacturer_metalmate: 1150M390025
+  part_number_name: ''
+  part_number_upper: ''
+  price_1: '0.048'
+  price_100: '0.048'
+  price_1000: '0.0214'
+  price_10000: '0.0214'
+  price_10000_distributor_1: '0.0214'
+  price_10000_distributor_2: '0.04'
+  price_10000_distributor_accu: '0.04'
+  price_10000_distributor_orbital_fasteners: '0.0214'
+  price_10000_name: orbital_fasteners
+  price_1000_distributor_1: '0.0214'
+  price_1000_distributor_2: '0.04'
+  price_1000_distributor_accu: '0.04'
+  price_1000_distributor_orbital_fasteners: '0.0214'
+  price_1000_name: orbital_fasteners
+  price_100_distributor_1: '0.048'
+  price_100_distributor_2: '0.06'
+  price_100_distributor_accu: '0.06'
+  price_100_distributor_orbital_fasteners: '0.048'
+  price_100_name: orbital_fasteners
+  price_1_distributor_1: '0.048'
+  price_1_distributor_2: '0.67'
+  price_1_distributor_accu: '0.67'
+  price_1_distributor_orbital_fasteners: '0.048'
+  price_1_name: orbital_fasteners
+  price_200: '0.0266'
+  price_200_distributor_1: '0.0266'
+  price_200_distributor_2: '0.06'
+  price_200_distributor_accu: '0.06'
+  price_200_distributor_orbital_fasteners: '0.0266'
+  price_200_name: orbital_fasteners
+  price_2_name: accu
+  price_current: '0.0266'
+  quantity_current: '200'
+  short_code: sc3b25h
+  short_code_upper: SC3B25H
+  size: m3
+  size_capital: M3
+  size_first_letter: m
+  size_first_letter_upper: M
+  size_length_1: m
+  size_length_2: m3
+  size_length_3: m3
+  size_length_4: m3
+  size_length_5: m3
+  size_length_6: m3
+  size_name: M3
+  size_no_space_length_1: m
+  size_no_space_length_2: m3
+  size_no_space_length_3: m3
+  size_no_space_length_4: m3
+  size_no_space_length_5: m3
+  size_no_space_length_6: m3
+  size_no_space_upper_length_1: M
+  size_no_space_upper_length_2: M3
+  size_no_space_upper_length_3: M3
+  size_no_space_upper_length_4: M3
+  size_no_space_upper_length_5: M3
+  size_no_space_upper_length_6: M3
+  size_only_numbers: '3'
+  size_only_numbers_no_zeros: '3'
+  size_upper: M3
+  size_upper_length_1: M
+  size_upper_length_2: M3
+  size_upper_length_3: M3
+  size_upper_length_4: M3
+  size_upper_length_5: M3
+  size_upper_length_6: M3
+  type: screw_socket_cap
+  type_capital: Screw Socket Cap
+  type_first_letter: s
+  type_first_letter_upper: S
+  type_length_1: s
+  type_length_2: sc
+  type_length_3: scr
+  type_length_4: scre
+  type_length_5: screw
+  type_length_6: screw_
+  type_name: Screw Socket Cap
+  type_no_space_length_1: s
+  type_no_space_length_2: sc
+  type_no_space_length_3: scr
+  type_no_space_length_4: scre
+  type_no_space_length_5: screw
+  type_no_space_length_6: screws
+  type_no_space_upper_length_1: S
+  type_no_space_upper_length_2: SC
+  type_no_space_upper_length_3: SCR
+  type_no_space_upper_length_4: SCRE
+  type_no_space_upper_length_5: SCREW
+  type_no_space_upper_length_6: SCREWS
+  type_upper: SCREW_SOCKET_CAP
+  type_upper_length_1: S
+  type_upper_length_2: SC
+  type_upper_length_3: SCR
+  type_upper_length_4: SCRE
+  type_upper_length_5: SCREW
+  type_upper_length_6: SCREW_
+  webpage_distributor_accu: https://www.accu.co.uk/metric-cap-head-screws/16009-SSC-M3-25-12-9
+  webpage_distributor_orbital_fasteners: https://www.orbitalfasteners.co.uk/products/m3-x-25-socket-cap-screw-high-tensile-grade-12-9-self-colour-
+  webpage_manufacturer_metalmate: https://www.harclob2b.com/m3-x-25-socket-cap-screw-gr12-9-self-colour-din-91-1150m390025
+hardware_screw_socket_cap_m4_black_25_mm_length_hex_head:
+  bip_39_word_dash_1: pottery
+  bip_39_word_dash_10: pottery-ability-someone-sure-cancel-will-media-grab-agent-fortune
+  bip_39_word_dash_11: pottery-ability-someone-sure-cancel-will-media-grab-agent-fortune-glad
+  bip_39_word_dash_12: pottery-ability-someone-sure-cancel-will-media-grab-agent-fortune-glad-aerobic
+  bip_39_word_dash_2: pottery-ability
+  bip_39_word_dash_3: pottery-ability-someone
+  bip_39_word_dash_4: pottery-ability-someone-sure
+  bip_39_word_dash_5: pottery-ability-someone-sure-cancel
+  bip_39_word_dash_6: pottery-ability-someone-sure-cancel-will
+  bip_39_word_dash_7: pottery-ability-someone-sure-cancel-will-media
+  bip_39_word_dash_8: pottery-ability-someone-sure-cancel-will-media-grab
+  bip_39_word_dash_9: pottery-ability-someone-sure-cancel-will-media-grab-agent
+  bip_39_word_new_br_1: pottery
+  bip_39_word_new_br_10: pottery<br>ability<br>someone<br>sure<br>cancel<br>will<br>media<br>grab<br>agent<br>fortune
+  bip_39_word_new_br_11: pottery<br>ability<br>someone<br>sure<br>cancel<br>will<br>media<br>grab<br>agent<br>fortune<br>glad
+  bip_39_word_new_br_12: pottery<br>ability<br>someone<br>sure<br>cancel<br>will<br>media<br>grab<br>agent<br>fortune<br>glad<br>aerobic
+  bip_39_word_new_br_2: pottery<br>ability
+  bip_39_word_new_br_3: pottery<br>ability<br>someone
+  bip_39_word_new_br_4: pottery<br>ability<br>someone<br>sure
+  bip_39_word_new_br_5: pottery<br>ability<br>someone<br>sure<br>cancel
+  bip_39_word_new_br_6: pottery<br>ability<br>someone<br>sure<br>cancel<br>will
+  bip_39_word_new_br_7: pottery<br>ability<br>someone<br>sure<br>cancel<br>will<br>media
+  bip_39_word_new_br_8: pottery<br>ability<br>someone<br>sure<br>cancel<br>will<br>media<br>grab
+  bip_39_word_new_br_9: pottery<br>ability<br>someone<br>sure<br>cancel<br>will<br>media<br>grab<br>agent
+  bip_39_word_new_line_1: pottery
+  bip_39_word_new_line_10: 'pottery
+
+    ability
+
+    someone
+
+    sure
+
+    cancel
+
+    will
+
+    media
+
+    grab
+
+    agent
+
+    fortune'
+  bip_39_word_new_line_11: 'pottery
+
+    ability
+
+    someone
+
+    sure
+
+    cancel
+
+    will
+
+    media
+
+    grab
+
+    agent
+
+    fortune
+
+    glad'
+  bip_39_word_new_line_12: 'pottery
+
+    ability
+
+    someone
+
+    sure
+
+    cancel
+
+    will
+
+    media
+
+    grab
+
+    agent
+
+    fortune
+
+    glad
+
+    aerobic'
+  bip_39_word_new_line_2: 'pottery
+
+    ability'
+  bip_39_word_new_line_3: 'pottery
+
+    ability
+
+    someone'
+  bip_39_word_new_line_4: 'pottery
+
+    ability
+
+    someone
+
+    sure'
+  bip_39_word_new_line_5: 'pottery
+
+    ability
+
+    someone
+
+    sure
+
+    cancel'
+  bip_39_word_new_line_6: 'pottery
+
+    ability
+
+    someone
+
+    sure
+
+    cancel
+
+    will'
+  bip_39_word_new_line_7: 'pottery
+
+    ability
+
+    someone
+
+    sure
+
+    cancel
+
+    will
+
+    media'
+  bip_39_word_new_line_8: 'pottery
+
+    ability
+
+    someone
+
+    sure
+
+    cancel
+
+    will
+
+    media
+
+    grab'
+  bip_39_word_new_line_9: 'pottery
+
+    ability
+
+    someone
+
+    sure
+
+    cancel
+
+    will
+
+    media
+
+    grab
+
+    agent'
+  bip_39_word_no_space_1: pottery
+  bip_39_word_no_space_10: potteryabilitysomeonesurecancelwillmediagrabagentfortune
+  bip_39_word_no_space_11: potteryabilitysomeonesurecancelwillmediagrabagentfortuneglad
+  bip_39_word_no_space_12: potteryabilitysomeonesurecancelwillmediagrabagentfortunegladaerobic
+  bip_39_word_no_space_2: potteryability
+  bip_39_word_no_space_3: potteryabilitysomeone
+  bip_39_word_no_space_4: potteryabilitysomeonesure
+  bip_39_word_no_space_5: potteryabilitysomeonesurecancel
+  bip_39_word_no_space_6: potteryabilitysomeonesurecancelwill
+  bip_39_word_no_space_7: potteryabilitysomeonesurecancelwillmedia
+  bip_39_word_no_space_8: potteryabilitysomeonesurecancelwillmediagrab
+  bip_39_word_no_space_9: potteryabilitysomeonesurecancelwillmediagrabagent
+  bip_39_word_space_0:
+  - pottery
+  - ability
+  - someone
+  - sure
+  - cancel
+  - will
+  - media
+  - grab
+  - agent
+  - fortune
+  - glad
+  - aerobic
+  bip_39_word_space_1: pottery
+  bip_39_word_space_10: pottery ability someone sure cancel will media grab agent
+    fortune
+  bip_39_word_space_11: pottery ability someone sure cancel will media grab agent
+    fortune glad
+  bip_39_word_space_12: pottery ability someone sure cancel will media grab agent
+    fortune glad aerobic
+  bip_39_word_space_2: pottery ability
+  bip_39_word_space_3: pottery ability someone
+  bip_39_word_space_4: pottery ability someone sure
+  bip_39_word_space_5: pottery ability someone sure cancel
+  bip_39_word_space_6: pottery ability someone sure cancel will
+  bip_39_word_space_7: pottery ability someone sure cancel will media
+  bip_39_word_space_8: pottery ability someone sure cancel will media grab
+  bip_39_word_space_9: pottery ability someone sure cancel will media grab agent
+  bip_39_word_underscore_1: pottery
+  bip_39_word_underscore_10: pottery_ability_someone_sure_cancel_will_media_grab_agent_fortune
+  bip_39_word_underscore_11: pottery_ability_someone_sure_cancel_will_media_grab_agent_fortune_glad
+  bip_39_word_underscore_12: pottery_ability_someone_sure_cancel_will_media_grab_agent_fortune_glad_aerobic
+  bip_39_word_underscore_2: pottery_ability
+  bip_39_word_underscore_3: pottery_ability_someone
+  bip_39_word_underscore_4: pottery_ability_someone_sure
+  bip_39_word_underscore_5: pottery_ability_someone_sure_cancel
+  bip_39_word_underscore_6: pottery_ability_someone_sure_cancel_will
+  bip_39_word_underscore_7: pottery_ability_someone_sure_cancel_will_media
+  bip_39_word_underscore_8: pottery_ability_someone_sure_cancel_will_media_grab
+  bip_39_word_underscore_9: pottery_ability_someone_sure_cancel_will_media_grab_agent
+  classification: hardware
+  classification_capital: Hardware
+  classification_first_letter: h
+  classification_first_letter_upper: H
+  classification_length_1: h
+  classification_length_2: ha
+  classification_length_3: har
+  classification_length_4: hard
+  classification_length_5: hardw
+  classification_length_6: hardwa
+  classification_name: Hardware
+  classification_no_space_length_1: h
+  classification_no_space_length_2: ha
+  classification_no_space_length_3: har
+  classification_no_space_length_4: hard
+  classification_no_space_length_5: hardw
+  classification_no_space_length_6: hardwa
+  classification_no_space_upper_length_1: H
+  classification_no_space_upper_length_2: HA
+  classification_no_space_upper_length_3: HAR
+  classification_no_space_upper_length_4: HARD
+  classification_no_space_upper_length_5: HARDW
+  classification_no_space_upper_length_6: HARDWA
+  classification_upper: HARDWARE
+  classification_upper_length_1: H
+  classification_upper_length_2: HA
+  classification_upper_length_3: HAR
+  classification_upper_length_4: HARD
+  classification_upper_length_5: HARDW
+  classification_upper_length_6: HARDWA
+  color: black
+  color_capital: Black
+  color_first_letter: b
+  color_first_letter_upper: B
+  color_length_1: b
+  color_length_2: bl
+  color_length_3: bla
+  color_length_4: blac
+  color_length_5: black
+  color_length_6: black
+  color_name: Black
+  color_no_space_length_1: b
+  color_no_space_length_2: bl
+  color_no_space_length_3: bla
+  color_no_space_length_4: blac
+  color_no_space_length_5: black
+  color_no_space_length_6: black
+  color_no_space_upper_length_1: B
+  color_no_space_upper_length_2: BL
+  color_no_space_upper_length_3: BLA
+  color_no_space_upper_length_4: BLAC
+  color_no_space_upper_length_5: BLACK
+  color_no_space_upper_length_6: BLACK
+  color_upper: BLACK
+  color_upper_length_1: B
+  color_upper_length_2: BL
+  color_upper_length_3: BLA
+  color_upper_length_4: BLAC
+  color_upper_length_5: BLACK
+  color_upper_length_6: BLACK
+  description_extra: hex_head
+  description_extra_capital: Hex Head
+  description_extra_first_letter: h
+  description_extra_first_letter_upper: H
+  description_extra_length_1: h
+  description_extra_length_2: he
+  description_extra_length_3: hex
+  description_extra_length_4: hex_
+  description_extra_length_5: hex_h
+  description_extra_length_6: hex_he
+  description_extra_name: Hex Head
+  description_extra_no_space_length_1: h
+  description_extra_no_space_length_2: he
+  description_extra_no_space_length_3: hex
+  description_extra_no_space_length_4: hexh
+  description_extra_no_space_length_5: hexhe
+  description_extra_no_space_length_6: hexhea
+  description_extra_no_space_upper_length_1: H
+  description_extra_no_space_upper_length_2: HE
+  description_extra_no_space_upper_length_3: HEX
+  description_extra_no_space_upper_length_4: HEXH
+  description_extra_no_space_upper_length_5: HEXHE
+  description_extra_no_space_upper_length_6: HEXHEA
+  description_extra_upper: HEX_HEAD
+  description_extra_upper_length_1: H
+  description_extra_upper_length_2: HE
+  description_extra_upper_length_3: HEX
+  description_extra_upper_length_4: HEX_
+  description_extra_upper_length_5: HEX_H
+  description_extra_upper_length_6: HEX_HE
+  description_main: 25_mm_length
+  description_main_capital: 25 mm Length
+  description_main_first_letter: '2'
+  description_main_first_letter_upper: '2'
+  description_main_length_1: '2'
+  description_main_length_2: '25'
+  description_main_length_3: '25_'
+  description_main_length_4: 25_m
+  description_main_length_5: 25_mm
+  description_main_length_6: 25_mm_
+  description_main_name: 25 mm Length
+  description_main_no_space_length_1: '2'
+  description_main_no_space_length_2: '25'
+  description_main_no_space_length_3: 25m
+  description_main_no_space_length_4: 25mm
+  description_main_no_space_length_5: 25mml
+  description_main_no_space_length_6: 25mmle
+  description_main_no_space_upper_length_1: '2'
+  description_main_no_space_upper_length_2: '25'
+  description_main_no_space_upper_length_3: 25M
+  description_main_no_space_upper_length_4: 25MM
+  description_main_no_space_upper_length_5: 25MML
+  description_main_no_space_upper_length_6: 25MMLE
+  description_main_upper: 25_MM_LENGTH
+  description_main_upper_length_1: '2'
+  description_main_upper_length_2: '25'
+  description_main_upper_length_3: '25_'
+  description_main_upper_length_4: 25_M
+  description_main_upper_length_5: 25_MM
+  description_main_upper_length_6: 25_MM_
+  description_only_numbers: '25'
+  description_only_numbers_short: '25'
+  description_or_color: B25
+  description_or_color_upper: B25
+  directory: parts/hardware_screw_socket_cap_m4_black_25_mm_length_hex_head
+  distributor_current: orbital_fasteners
+  distributors: []
+  filter: ''
+  from_yaml: false
+  github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/hardware_screw_socket_cap_m4_black_25_mm_length_hex_head
+  id: hardware_screw_socket_cap_m4_black_25_mm_length_hex_head
+  id_no_class: screw_socket_cap_m4_black_25_mm_length_hex_head
+  id_no_color: 25_mm_length_hex_head
+  id_no_size: black_25_mm_length_hex_head
+  id_no_type: m4_black_25_mm_length_hex_head
+  kicad_reference: ''
+  link_1: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/hardware_screw_socket_cap_m4_black_25_mm_length_hex_head
+  link_1_name: link_main
+  link_2: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/hardware_screw_socket_cap_m4_black_25_mm_length_hex_head
+  link_2_name: github_link
+  link_3: https://www.orbitalfasteners.co.uk/products/m4-x-25-socket-cap-screw-high-tensile-grade-12-9-self-colour
+  link_3_name: webpage_distributor_orbital_fasteners
+  link_4: https://www.accu.co.uk/metric-cap-head-screws/16027-SSC-M4-25-12-9
+  link_4_name: webpage_distributor_accu
+  link_buy: https://www.orbitalfasteners.co.uk/products/m4-x-25-socket-cap-screw-high-tensile-grade-12-9-self-colour
+  link_buy_1: https://www.orbitalfasteners.co.uk/products/m4-x-25-socket-cap-screw-high-tensile-grade-12-9-self-colour
+  link_buy_1_name: webpage_distributor_orbital_fasteners
+  link_buy_2: https://www.accu.co.uk/metric-cap-head-screws/16027-SSC-M4-25-12-9
+  link_buy_2_name: webpage_distributor_accu
+  link_buy_name: orbital_fasteners
+  link_main: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/hardware_screw_socket_cap_m4_black_25_mm_length_hex_head
+  link_oomlout_label_2x1: http://192.168.1.242:1112/?label=oomp%202lseu
+  link_oomlout_label_3x2: http://192.168.1.245:1112/?label=oomp%202lseu
+  link_oomlout_label_6x4: http://192.168.1.55:1112/?label=oomp%202lseu
+  manufacturer: ''
+  manufacturer_capital: ''
+  manufacturer_first_letter: ''
+  manufacturer_first_letter_upper: ''
+  manufacturer_name: ''
+  manufacturer_upper: ''
+  manufacturers: []
+  markdown_full: '[hardware_screw_socket_cap_m4_black_25_mm_length_hex_head](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/hardware_screw_socket_cap_m4_black_25_mm_length_hex_head)<br>[sc4b25h](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/hardware_screw_socket_cap_m4_black_25_mm_length_hex_head)<br>[Hardware
+    Screw Socket Cap M4 Black 25 Mm Length Hex Head](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/hardware_screw_socket_cap_m4_black_25_mm_length_hex_head)<br><br>'
+  markdown_short: '[hardware_screw_socket_cap_m4_black_25_mm_length_hex_head](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/hardware_screw_socket_cap_m4_black_25_mm_length_hex_head)<br><br>'
+  md5: 42c516e02765514fec909da19e000d47
+  md5_10: 42c516e027
+  md5_10_upper: 42C516E027
+  md5_5: 42c51
+  md5_5_upper: 42C51
+  md5_6: 42c516
+  md5_6_alpha: 2lseu
+  md5_6_alpha_upper: 2LSEU
+  md5_6_upper: 42C516
+  name: Hardware Screw Socket Cap M4 Black 25 mm Length Hex Head
+  name_no_class: Screw Socket Cap M4 Black 25 mm Length Hex Head
+  name_no_color: 25 mm Length Hex Head
+  name_no_size: Black 25 mm Length Hex Head
+  name_no_size_short: Black 25 Mm Length Hex Head
+  name_no_type: M4 Black 25 mm Length Hex Head
+  oomlout_bolt_color: Black
+  oomlout_bolt_head_type: Hex Head
+  oomlout_bolt_head_type_diagram: head_type_diagram.png
+  oomlout_bolt_length: 25 mm
+  oomlout_bolt_length_no_unit: '25'
+  oomlout_bolt_md5_6_alpha_first_3: 2ls
+  oomlout_bolt_md5_6_alpha_first_3_upper: 2LS
+  oomlout_bolt_md5_6_alpha_last_3: eu
+  oomlout_bolt_md5_6_alpha_last_3_upper: EU
+  oomlout_bolt_md5_6_first_3: 42c
+  oomlout_bolt_md5_6_first_3_upper: 42C
+  oomlout_bolt_md5_6_last_3: '516'
+  oomlout_bolt_md5_6_last_3_upper: '516'
+  oomlout_bolt_name: Socket Cap M4X25 mm Black (Hex Head)
+  oomlout_bolt_size: M4
+  oomlout_bolt_type: Socket Cap
+  oomlout_bolt_type_diagram_diagram: type_diagram.png
+  oomlout_oomp_utility_custom_data_manipulation: true
+  oomlout_short_code: sc4b25h
+  oomlout_short_code_upper: SC4B25H
+  oomp_id: hardware_screw_socket_cap_m4_black_25_mm_length_hex_head
+  oomp_key: oomp_hardware_screw_socket_cap_m4_black_25_mm_length_hex_head
+  oomp_word: sheep candy thumbsup
+  oomp_word_emoji: ':sheep: :candy: :thumbsup:'
+  oomp_word_emoji_list:
+  - ':sheep:'
+  - ':candy:'
+  - ':thumbsup:'
+  oomp_word_list:
+  - sheep
+  - candy
+  - thumbsup
+  part_number: ''
+  part_number_capital: ''
+  part_number_distributor_accu: SSCF-M4-25-12.9
+  part_number_distributor_accu_search: SSCF-M4-25-12.9+-zinc
+  part_number_distributor_orbital_fasteners: '1891120'
+  part_number_first_letter: ''
+  part_number_first_letter_upper: ''
+  part_number_name: ''
+  part_number_upper: ''
+  price_1: '0.0424'
+  price_100: '0.0424'
+  price_1000: '0.0188'
+  price_10000: '0.0188'
+  price_10000_distributor_1: '0.0188'
+  price_10000_distributor_2: '0.03'
+  price_10000_distributor_accu: '0.03'
+  price_10000_distributor_orbital_fasteners: '0.0188'
+  price_10000_name: orbital_fasteners
+  price_1000_distributor_1: '0.0188'
+  price_1000_distributor_2: '0.03'
+  price_1000_distributor_accu: '0.03'
+  price_1000_distributor_orbital_fasteners: '0.0188'
+  price_1000_name: orbital_fasteners
+  price_100_distributor_1: '0.0424'
+  price_100_distributor_2: '0.04'
+  price_100_distributor_accu: '0.04'
+  price_100_distributor_orbital_fasteners: '0.0424'
+  price_100_name: orbital_fasteners
+  price_1_distributor_1: '0.0424'
+  price_1_distributor_2: '0.65'
+  price_1_distributor_accu: '0.65'
+  price_1_distributor_orbital_fasteners: '0.0424'
+  price_1_name: orbital_fasteners
+  price_200: '0.0235'
+  price_200_distributor_1: '0.0235'
+  price_200_distributor_2: '0.04'
+  price_200_distributor_accu: '0.04'
+  price_200_distributor_orbital_fasteners: '0.0235'
+  price_200_name: orbital_fasteners
+  price_2_name: accu
+  price_current: '0.0235'
+  quantity_current: '200'
+  short_code: sc4b25h
+  short_code_upper: SC4B25H
+  size: m4
+  size_capital: M4
+  size_first_letter: m
+  size_first_letter_upper: M
+  size_length_1: m
+  size_length_2: m4
+  size_length_3: m4
+  size_length_4: m4
+  size_length_5: m4
+  size_length_6: m4
+  size_name: M4
+  size_no_space_length_1: m
+  size_no_space_length_2: m4
+  size_no_space_length_3: m4
+  size_no_space_length_4: m4
+  size_no_space_length_5: m4
+  size_no_space_length_6: m4
+  size_no_space_upper_length_1: M
+  size_no_space_upper_length_2: M4
+  size_no_space_upper_length_3: M4
+  size_no_space_upper_length_4: M4
+  size_no_space_upper_length_5: M4
+  size_no_space_upper_length_6: M4
+  size_only_numbers: '4'
+  size_only_numbers_no_zeros: '4'
+  size_upper: M4
+  size_upper_length_1: M
+  size_upper_length_2: M4
+  size_upper_length_3: M4
+  size_upper_length_4: M4
+  size_upper_length_5: M4
+  size_upper_length_6: M4
+  type: screw_socket_cap
+  type_capital: Screw Socket Cap
+  type_first_letter: s
+  type_first_letter_upper: S
+  type_length_1: s
+  type_length_2: sc
+  type_length_3: scr
+  type_length_4: scre
+  type_length_5: screw
+  type_length_6: screw_
+  type_name: Screw Socket Cap
+  type_no_space_length_1: s
+  type_no_space_length_2: sc
+  type_no_space_length_3: scr
+  type_no_space_length_4: scre
+  type_no_space_length_5: screw
+  type_no_space_length_6: screws
+  type_no_space_upper_length_1: S
+  type_no_space_upper_length_2: SC
+  type_no_space_upper_length_3: SCR
+  type_no_space_upper_length_4: SCRE
+  type_no_space_upper_length_5: SCREW
+  type_no_space_upper_length_6: SCREWS
+  type_upper: SCREW_SOCKET_CAP
+  type_upper_length_1: S
+  type_upper_length_2: SC
+  type_upper_length_3: SCR
+  type_upper_length_4: SCRE
+  type_upper_length_5: SCREW
+  type_upper_length_6: SCREW_
+  webpage_distributor_accu: https://www.accu.co.uk/metric-cap-head-screws/16027-SSC-M4-25-12-9
+  webpage_distributor_orbital_fasteners: https://www.orbitalfasteners.co.uk/products/m4-x-25-socket-cap-screw-high-tensile-grade-12-9-self-colour
+hardware_set_screw_m6_25_mm_length:
+  barcode_manufacturer_metalmate: '5050420654173'
+  bip_39_word_dash_1: family
+  bip_39_word_dash_10: family-example-kite-pottery-sick-fatigue-update-cliff-agree-chimney
+  bip_39_word_dash_11: family-example-kite-pottery-sick-fatigue-update-cliff-agree-chimney-bullet
+  bip_39_word_dash_12: family-example-kite-pottery-sick-fatigue-update-cliff-agree-chimney-bullet-audit
+  bip_39_word_dash_2: family-example
+  bip_39_word_dash_3: family-example-kite
+  bip_39_word_dash_4: family-example-kite-pottery
+  bip_39_word_dash_5: family-example-kite-pottery-sick
+  bip_39_word_dash_6: family-example-kite-pottery-sick-fatigue
+  bip_39_word_dash_7: family-example-kite-pottery-sick-fatigue-update
+  bip_39_word_dash_8: family-example-kite-pottery-sick-fatigue-update-cliff
+  bip_39_word_dash_9: family-example-kite-pottery-sick-fatigue-update-cliff-agree
+  bip_39_word_new_br_1: family
+  bip_39_word_new_br_10: family<br>example<br>kite<br>pottery<br>sick<br>fatigue<br>update<br>cliff<br>agree<br>chimney
+  bip_39_word_new_br_11: family<br>example<br>kite<br>pottery<br>sick<br>fatigue<br>update<br>cliff<br>agree<br>chimney<br>bullet
+  bip_39_word_new_br_12: family<br>example<br>kite<br>pottery<br>sick<br>fatigue<br>update<br>cliff<br>agree<br>chimney<br>bullet<br>audit
+  bip_39_word_new_br_2: family<br>example
+  bip_39_word_new_br_3: family<br>example<br>kite
+  bip_39_word_new_br_4: family<br>example<br>kite<br>pottery
+  bip_39_word_new_br_5: family<br>example<br>kite<br>pottery<br>sick
+  bip_39_word_new_br_6: family<br>example<br>kite<br>pottery<br>sick<br>fatigue
+  bip_39_word_new_br_7: family<br>example<br>kite<br>pottery<br>sick<br>fatigue<br>update
+  bip_39_word_new_br_8: family<br>example<br>kite<br>pottery<br>sick<br>fatigue<br>update<br>cliff
+  bip_39_word_new_br_9: family<br>example<br>kite<br>pottery<br>sick<br>fatigue<br>update<br>cliff<br>agree
+  bip_39_word_new_line_1: family
+  bip_39_word_new_line_10: 'family
+
+    example
+
+    kite
+
+    pottery
+
+    sick
+
+    fatigue
+
+    update
+
+    cliff
+
+    agree
+
+    chimney'
+  bip_39_word_new_line_11: 'family
+
+    example
+
+    kite
+
+    pottery
+
+    sick
+
+    fatigue
+
+    update
+
+    cliff
+
+    agree
+
+    chimney
+
+    bullet'
+  bip_39_word_new_line_12: 'family
+
+    example
+
+    kite
+
+    pottery
+
+    sick
+
+    fatigue
+
+    update
+
+    cliff
+
+    agree
+
+    chimney
+
+    bullet
+
+    audit'
+  bip_39_word_new_line_2: 'family
+
+    example'
+  bip_39_word_new_line_3: 'family
+
+    example
+
+    kite'
+  bip_39_word_new_line_4: 'family
+
+    example
+
+    kite
+
+    pottery'
+  bip_39_word_new_line_5: 'family
+
+    example
+
+    kite
+
+    pottery
+
+    sick'
+  bip_39_word_new_line_6: 'family
+
+    example
+
+    kite
+
+    pottery
+
+    sick
+
+    fatigue'
+  bip_39_word_new_line_7: 'family
+
+    example
+
+    kite
+
+    pottery
+
+    sick
+
+    fatigue
+
+    update'
+  bip_39_word_new_line_8: 'family
+
+    example
+
+    kite
+
+    pottery
+
+    sick
+
+    fatigue
+
+    update
+
+    cliff'
+  bip_39_word_new_line_9: 'family
+
+    example
+
+    kite
+
+    pottery
+
+    sick
+
+    fatigue
+
+    update
+
+    cliff
+
+    agree'
+  bip_39_word_no_space_1: family
+  bip_39_word_no_space_10: familyexamplekitepotterysickfatigueupdatecliffagreechimney
+  bip_39_word_no_space_11: familyexamplekitepotterysickfatigueupdatecliffagreechimneybullet
+  bip_39_word_no_space_12: familyexamplekitepotterysickfatigueupdatecliffagreechimneybulletaudit
+  bip_39_word_no_space_2: familyexample
+  bip_39_word_no_space_3: familyexamplekite
+  bip_39_word_no_space_4: familyexamplekitepottery
+  bip_39_word_no_space_5: familyexamplekitepotterysick
+  bip_39_word_no_space_6: familyexamplekitepotterysickfatigue
+  bip_39_word_no_space_7: familyexamplekitepotterysickfatigueupdate
+  bip_39_word_no_space_8: familyexamplekitepotterysickfatigueupdatecliff
+  bip_39_word_no_space_9: familyexamplekitepotterysickfatigueupdatecliffagree
+  bip_39_word_space_0:
+  - family
+  - example
+  - kite
+  - pottery
+  - sick
+  - fatigue
+  - update
+  - cliff
+  - agree
+  - chimney
+  - bullet
+  - audit
+  bip_39_word_space_1: family
+  bip_39_word_space_10: family example kite pottery sick fatigue update cliff agree
+    chimney
+  bip_39_word_space_11: family example kite pottery sick fatigue update cliff agree
+    chimney bullet
+  bip_39_word_space_12: family example kite pottery sick fatigue update cliff agree
+    chimney bullet audit
+  bip_39_word_space_2: family example
+  bip_39_word_space_3: family example kite
+  bip_39_word_space_4: family example kite pottery
+  bip_39_word_space_5: family example kite pottery sick
+  bip_39_word_space_6: family example kite pottery sick fatigue
+  bip_39_word_space_7: family example kite pottery sick fatigue update
+  bip_39_word_space_8: family example kite pottery sick fatigue update cliff
+  bip_39_word_space_9: family example kite pottery sick fatigue update cliff agree
+  bip_39_word_underscore_1: family
+  bip_39_word_underscore_10: family_example_kite_pottery_sick_fatigue_update_cliff_agree_chimney
+  bip_39_word_underscore_11: family_example_kite_pottery_sick_fatigue_update_cliff_agree_chimney_bullet
+  bip_39_word_underscore_12: family_example_kite_pottery_sick_fatigue_update_cliff_agree_chimney_bullet_audit
+  bip_39_word_underscore_2: family_example
+  bip_39_word_underscore_3: family_example_kite
+  bip_39_word_underscore_4: family_example_kite_pottery
+  bip_39_word_underscore_5: family_example_kite_pottery_sick
+  bip_39_word_underscore_6: family_example_kite_pottery_sick_fatigue
+  bip_39_word_underscore_7: family_example_kite_pottery_sick_fatigue_update
+  bip_39_word_underscore_8: family_example_kite_pottery_sick_fatigue_update_cliff
+  bip_39_word_underscore_9: family_example_kite_pottery_sick_fatigue_update_cliff_agree
+  box_of_box_size_manufacturer_metalmate: '3000'
+  box_size_manufacturer_metalmate: '500'
+  classification: hardware
+  classification_capital: Hardware
+  classification_first_letter: h
+  classification_first_letter_upper: H
+  classification_length_1: h
+  classification_length_2: ha
+  classification_length_3: har
+  classification_length_4: hard
+  classification_length_5: hardw
+  classification_length_6: hardwa
+  classification_name: Hardware
+  classification_no_space_length_1: h
+  classification_no_space_length_2: ha
+  classification_no_space_length_3: har
+  classification_no_space_length_4: hard
+  classification_no_space_length_5: hardw
+  classification_no_space_length_6: hardwa
+  classification_no_space_upper_length_1: H
+  classification_no_space_upper_length_2: HA
+  classification_no_space_upper_length_3: HAR
+  classification_no_space_upper_length_4: HARD
+  classification_no_space_upper_length_5: HARDW
+  classification_no_space_upper_length_6: HARDWA
+  classification_upper: HARDWARE
+  classification_upper_length_1: H
+  classification_upper_length_2: HA
+  classification_upper_length_3: HAR
+  classification_upper_length_4: HARD
+  classification_upper_length_5: HARDW
+  classification_upper_length_6: HARDWA
+  color: ''
+  color_capital: ''
+  color_first_letter: ''
+  color_first_letter_upper: ''
+  color_name: ''
+  color_upper: ''
+  commonity_code: '7318158880'
+  description_extra: ''
+  description_extra_capital: ''
+  description_extra_first_letter: ''
+  description_extra_first_letter_upper: ''
+  description_extra_name: ''
+  description_extra_upper: ''
+  description_main: 25_mm_length
+  description_main_capital: 25 mm Length
+  description_main_first_letter: '2'
+  description_main_first_letter_upper: '2'
+  description_main_length_1: '2'
+  description_main_length_2: '25'
+  description_main_length_3: '25_'
+  description_main_length_4: 25_m
+  description_main_length_5: 25_mm
+  description_main_length_6: 25_mm_
+  description_main_name: 25 mm Length
+  description_main_no_space_length_1: '2'
+  description_main_no_space_length_2: '25'
+  description_main_no_space_length_3: 25m
+  description_main_no_space_length_4: 25mm
+  description_main_no_space_length_5: 25mml
+  description_main_no_space_length_6: 25mmle
+  description_main_no_space_upper_length_1: '2'
+  description_main_no_space_upper_length_2: '25'
+  description_main_no_space_upper_length_3: 25M
+  description_main_no_space_upper_length_4: 25MM
+  description_main_no_space_upper_length_5: 25MML
+  description_main_no_space_upper_length_6: 25MMLE
+  description_main_upper: 25_MM_LENGTH
+  description_main_upper_length_1: '2'
+  description_main_upper_length_2: '25'
+  description_main_upper_length_3: '25_'
+  description_main_upper_length_4: 25_M
+  description_main_upper_length_5: 25_MM
+  description_main_upper_length_6: 25_MM_
+  description_only_numbers: '25'
+  description_only_numbers_short: '25'
+  description_or_color: '25'
+  description_or_color_upper: '25'
+  directory: parts/hardware_set_screw_m6_25_mm_length
+  distributor_current: orbital_fasteners
+  distributors: []
+  filter: ''
+  from_yaml: false
+  github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/hardware_set_screw_m6_25_mm_length
+  id: hardware_set_screw_m6_25_mm_length
+  id_no_class: set_screw_m6_25_mm_length
+  id_no_color: 25mmlength
+  id_no_size: 25_mm_length
+  id_no_type: m6_25_mm_length
+  kicad_reference: ''
+  link_1: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/hardware_set_screw_m6_25_mm_length
+  link_1_name: link_main
+  link_2: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/hardware_set_screw_m6_25_mm_length
+  link_2_name: github_link
+  link_3: https://www.orbitalfasteners.co.uk/products/m6-x-25-hexagon-head-set-screws-high-tensile-grade-8-8-bright-zinc-plated
+  link_3_name: webpage_distributor_orbital_fasteners
+  link_4: https://www.harclob2b.com/m6-x-25-high-tensile-set-gr-8-8-zinc-plated-metalm-z0318m490025
+  link_4_name: webpage_manufacturer_metalmate
+  link_buy: https://www.orbitalfasteners.co.uk/products/m6-x-25-hexagon-head-set-screws-high-tensile-grade-8-8-bright-zinc-plated
+  link_buy_1: https://www.orbitalfasteners.co.uk/products/m6-x-25-hexagon-head-set-screws-high-tensile-grade-8-8-bright-zinc-plated
+  link_buy_1_name: webpage_distributor_orbital_fasteners
+  link_buy_name: orbital_fasteners
+  link_main: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/hardware_set_screw_m6_25_mm_length
+  link_oomlout_label_2x1: http://192.168.1.242:1112/?label=oomp%209dg7e
+  link_oomlout_label_3x2: http://192.168.1.245:1112/?label=oomp%209dg7e
+  link_oomlout_label_6x4: http://192.168.1.55:1112/?label=oomp%209dg7e
+  manufacturer: ''
+  manufacturer_capital: ''
+  manufacturer_first_letter: ''
+  manufacturer_first_letter_upper: ''
+  manufacturer_name: ''
+  manufacturer_upper: ''
+  manufacturers: []
+  markdown_full: '[hardware_set_screw_m6_25_mm_length](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/hardware_set_screw_m6_25_mm_length)<br>[ss625](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/hardware_set_screw_m6_25_mm_length)<br>[Hardware
+    Set Screw M6 25 Mm Length](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/hardware_set_screw_m6_25_mm_length)<br><br>'
+  markdown_short: '[hardware_set_screw_m6_25_mm_length](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/hardware_set_screw_m6_25_mm_length)<br><br>'
+  md5: f03c4a00282afdd14f63ea8ef6539a94
+  md5_10: f03c4a0028
+  md5_10_upper: F03C4A0028
+  md5_5: f03c4
+  md5_5_upper: F03C4
+  md5_6: f03c4a
+  md5_6_alpha: 9dg7e
+  md5_6_alpha_upper: 9DG7E
+  md5_6_upper: F03C4A
+  name: Hardware Set Screw M6 25 mm Length
+  name_manufacturer_metalmate: M6 x 25 High Tensile Set Gr 8.8 Zinc Plated Metalmate
+    DIN 933 (ISO 4017)
+  name_no_class: Set Screw M6 25 mm Length
+  name_no_color: 25mmlength
+  name_no_size: 25 mm Length
+  name_no_size_short: 25 Mm Length
+  name_no_type: M6 25 mm Length
+  oomlout_bolt_color: ''
+  oomlout_bolt_head_type: Bolt
+  oomlout_bolt_head_type_diagram: head_type_diagram.png
+  oomlout_bolt_length: 25 mm
+  oomlout_bolt_length_no_unit: '25'
+  oomlout_bolt_md5_6_alpha_first_3: 9dg
+  oomlout_bolt_md5_6_alpha_first_3_upper: 9DG
+  oomlout_bolt_md5_6_alpha_last_3: 7e
+  oomlout_bolt_md5_6_alpha_last_3_upper: 7E
+  oomlout_bolt_md5_6_first_3: f03
+  oomlout_bolt_md5_6_first_3_upper: F03
+  oomlout_bolt_md5_6_last_3: c4a
+  oomlout_bolt_md5_6_last_3_upper: C4A
+  oomlout_bolt_name: Set Screw M6X25 mm  (Bolt)
+  oomlout_bolt_size: M6
+  oomlout_bolt_type: Set Screw
+  oomlout_bolt_type_diagram_diagram: type_diagram.png
+  oomlout_oomp_utility_custom_data_manipulation: true
+  oomlout_short_code: ss6m25
+  oomlout_short_code_upper: SS6M25
+  oomp_id: hardware_set_screw_m6_25_mm_length
+  oomp_key: oomp_hardware_set_screw_m6_25_mm_length
+  oomp_word: train pig chicken
+  oomp_word_emoji: ':train: :pig: :chicken:'
+  oomp_word_emoji_list:
+  - ':train:'
+  - ':pig:'
+  - ':chicken:'
+  oomp_word_list:
+  - train
+  - pig
+  - chicken
+  part_number: ''
+  part_number_capital: ''
+  part_number_distributor_orbital_fasteners: '1851190'
+  part_number_first_letter: ''
+  part_number_first_letter_upper: ''
+  part_number_manufacturer_metalmate: Z0318M490025
+  part_number_name: ''
+  part_number_upper: ''
+  price_1: '0.0379'
+  price_100: '0.0379'
+  price_1000: '0.0211'
+  price_10000: '0.0168'
+  price_10000_distributor_1: '0.0168'
+  price_10000_distributor_orbital_fasteners: '0.0168'
+  price_10000_name: orbital_fasteners
+  price_1000_distributor_1: '0.0211'
+  price_1000_distributor_orbital_fasteners: '0.0211'
+  price_1000_name: orbital_fasteners
+  price_100_distributor_1: '0.0379'
+  price_100_distributor_orbital_fasteners: '0.0379'
+  price_100_name: orbital_fasteners
+  price_1_distributor_1: '0.0379'
+  price_1_distributor_orbital_fasteners: '0.0379'
+  price_1_name: orbital_fasteners
+  price_200: '0.0379'
+  price_200_distributor_1: '0.0379'
+  price_200_distributor_orbital_fasteners: '0.0379'
+  price_200_name: orbital_fasteners
+  price_2_name: accu
+  price_current: '0.0379'
+  quantity_current: '200'
+  short_code: ss625
+  short_code_upper: SS625
+  size: m6
+  size_capital: M6
+  size_first_letter: m
+  size_first_letter_upper: M
+  size_length_1: m
+  size_length_2: m6
+  size_length_3: m6
+  size_length_4: m6
+  size_length_5: m6
+  size_length_6: m6
+  size_name: M6
+  size_no_space_length_1: m
+  size_no_space_length_2: m6
+  size_no_space_length_3: m6
+  size_no_space_length_4: m6
+  size_no_space_length_5: m6
+  size_no_space_length_6: m6
+  size_no_space_upper_length_1: M
+  size_no_space_upper_length_2: M6
+  size_no_space_upper_length_3: M6
+  size_no_space_upper_length_4: M6
+  size_no_space_upper_length_5: M6
+  size_no_space_upper_length_6: M6
+  size_only_numbers: '6'
+  size_only_numbers_no_zeros: '6'
+  size_upper: M6
+  size_upper_length_1: M
+  size_upper_length_2: M6
+  size_upper_length_3: M6
+  size_upper_length_4: M6
+  size_upper_length_5: M6
+  size_upper_length_6: M6
+  type: set_screw
+  type_capital: Set Screw
+  type_first_letter: s
+  type_first_letter_upper: S
+  type_length_1: s
+  type_length_2: se
+  type_length_3: set
+  type_length_4: set_
+  type_length_5: set_s
+  type_length_6: set_sc
+  type_name: Set Screw
+  type_no_space_length_1: s
+  type_no_space_length_2: se
+  type_no_space_length_3: set
+  type_no_space_length_4: sets
+  type_no_space_length_5: setsc
+  type_no_space_length_6: setscr
+  type_no_space_upper_length_1: S
+  type_no_space_upper_length_2: SE
+  type_no_space_upper_length_3: SET
+  type_no_space_upper_length_4: SETS
+  type_no_space_upper_length_5: SETSC
+  type_no_space_upper_length_6: SETSCR
+  type_upper: SET_SCREW
+  type_upper_length_1: S
+  type_upper_length_2: SE
+  type_upper_length_3: SET
+  type_upper_length_4: SET_
+  type_upper_length_5: SET_S
+  type_upper_length_6: SET_SC
+  webpage_distributor_orbital_fasteners: https://www.orbitalfasteners.co.uk/products/m6-x-25-hexagon-head-set-screws-high-tensile-grade-8-8-bright-zinc-plated
+  webpage_manufacturer_metalmate: https://www.harclob2b.com/m6-x-25-high-tensile-set-gr-8-8-zinc-plated-metalm-z0318m490025
+mechanical_wheel_caster_25_mm_diameter_brown_plastic_wheel_39_mm_width_33_mm_height_bracket_m4_mounting_hole:
+  bip_39_word_dash_1: relax
+  bip_39_word_dash_10: relax-maze-dinosaur-sure-cry-calm-course-give-round-horse
+  bip_39_word_dash_11: relax-maze-dinosaur-sure-cry-calm-course-give-round-horse-friend
+  bip_39_word_dash_12: relax-maze-dinosaur-sure-cry-calm-course-give-round-horse-friend-among
+  bip_39_word_dash_2: relax-maze
+  bip_39_word_dash_3: relax-maze-dinosaur
+  bip_39_word_dash_4: relax-maze-dinosaur-sure
+  bip_39_word_dash_5: relax-maze-dinosaur-sure-cry
+  bip_39_word_dash_6: relax-maze-dinosaur-sure-cry-calm
+  bip_39_word_dash_7: relax-maze-dinosaur-sure-cry-calm-course
+  bip_39_word_dash_8: relax-maze-dinosaur-sure-cry-calm-course-give
+  bip_39_word_dash_9: relax-maze-dinosaur-sure-cry-calm-course-give-round
+  bip_39_word_new_br_1: relax
+  bip_39_word_new_br_10: relax<br>maze<br>dinosaur<br>sure<br>cry<br>calm<br>course<br>give<br>round<br>horse
+  bip_39_word_new_br_11: relax<br>maze<br>dinosaur<br>sure<br>cry<br>calm<br>course<br>give<br>round<br>horse<br>friend
+  bip_39_word_new_br_12: relax<br>maze<br>dinosaur<br>sure<br>cry<br>calm<br>course<br>give<br>round<br>horse<br>friend<br>among
+  bip_39_word_new_br_2: relax<br>maze
+  bip_39_word_new_br_3: relax<br>maze<br>dinosaur
+  bip_39_word_new_br_4: relax<br>maze<br>dinosaur<br>sure
+  bip_39_word_new_br_5: relax<br>maze<br>dinosaur<br>sure<br>cry
+  bip_39_word_new_br_6: relax<br>maze<br>dinosaur<br>sure<br>cry<br>calm
+  bip_39_word_new_br_7: relax<br>maze<br>dinosaur<br>sure<br>cry<br>calm<br>course
+  bip_39_word_new_br_8: relax<br>maze<br>dinosaur<br>sure<br>cry<br>calm<br>course<br>give
+  bip_39_word_new_br_9: relax<br>maze<br>dinosaur<br>sure<br>cry<br>calm<br>course<br>give<br>round
+  bip_39_word_new_line_1: relax
+  bip_39_word_new_line_10: 'relax
+
+    maze
+
+    dinosaur
+
+    sure
+
+    cry
+
+    calm
+
+    course
+
+    give
+
+    round
+
+    horse'
+  bip_39_word_new_line_11: 'relax
+
+    maze
+
+    dinosaur
+
+    sure
+
+    cry
+
+    calm
+
+    course
+
+    give
+
+    round
+
+    horse
+
+    friend'
+  bip_39_word_new_line_12: 'relax
+
+    maze
+
+    dinosaur
+
+    sure
+
+    cry
+
+    calm
+
+    course
+
+    give
+
+    round
+
+    horse
+
+    friend
+
+    among'
+  bip_39_word_new_line_2: 'relax
+
+    maze'
+  bip_39_word_new_line_3: 'relax
+
+    maze
+
+    dinosaur'
+  bip_39_word_new_line_4: 'relax
+
+    maze
+
+    dinosaur
+
+    sure'
+  bip_39_word_new_line_5: 'relax
+
+    maze
+
+    dinosaur
+
+    sure
+
+    cry'
+  bip_39_word_new_line_6: 'relax
+
+    maze
+
+    dinosaur
+
+    sure
+
+    cry
+
+    calm'
+  bip_39_word_new_line_7: 'relax
+
+    maze
+
+    dinosaur
+
+    sure
+
+    cry
+
+    calm
+
+    course'
+  bip_39_word_new_line_8: 'relax
+
+    maze
+
+    dinosaur
+
+    sure
+
+    cry
+
+    calm
+
+    course
+
+    give'
+  bip_39_word_new_line_9: 'relax
+
+    maze
+
+    dinosaur
+
+    sure
+
+    cry
+
+    calm
+
+    course
+
+    give
+
+    round'
+  bip_39_word_no_space_1: relax
+  bip_39_word_no_space_10: relaxmazedinosaursurecrycalmcoursegiveroundhorse
+  bip_39_word_no_space_11: relaxmazedinosaursurecrycalmcoursegiveroundhorsefriend
+  bip_39_word_no_space_12: relaxmazedinosaursurecrycalmcoursegiveroundhorsefriendamong
+  bip_39_word_no_space_2: relaxmaze
+  bip_39_word_no_space_3: relaxmazedinosaur
+  bip_39_word_no_space_4: relaxmazedinosaursure
+  bip_39_word_no_space_5: relaxmazedinosaursurecry
+  bip_39_word_no_space_6: relaxmazedinosaursurecrycalm
+  bip_39_word_no_space_7: relaxmazedinosaursurecrycalmcourse
+  bip_39_word_no_space_8: relaxmazedinosaursurecrycalmcoursegive
+  bip_39_word_no_space_9: relaxmazedinosaursurecrycalmcoursegiveround
+  bip_39_word_space_0:
+  - relax
+  - maze
+  - dinosaur
+  - sure
+  - cry
+  - calm
+  - course
+  - give
+  - round
+  - horse
+  - friend
+  - among
+  bip_39_word_space_1: relax
+  bip_39_word_space_10: relax maze dinosaur sure cry calm course give round horse
+  bip_39_word_space_11: relax maze dinosaur sure cry calm course give round horse
+    friend
+  bip_39_word_space_12: relax maze dinosaur sure cry calm course give round horse
+    friend among
+  bip_39_word_space_2: relax maze
+  bip_39_word_space_3: relax maze dinosaur
+  bip_39_word_space_4: relax maze dinosaur sure
+  bip_39_word_space_5: relax maze dinosaur sure cry
+  bip_39_word_space_6: relax maze dinosaur sure cry calm
+  bip_39_word_space_7: relax maze dinosaur sure cry calm course
+  bip_39_word_space_8: relax maze dinosaur sure cry calm course give
+  bip_39_word_space_9: relax maze dinosaur sure cry calm course give round
+  bip_39_word_underscore_1: relax
+  bip_39_word_underscore_10: relax_maze_dinosaur_sure_cry_calm_course_give_round_horse
+  bip_39_word_underscore_11: relax_maze_dinosaur_sure_cry_calm_course_give_round_horse_friend
+  bip_39_word_underscore_12: relax_maze_dinosaur_sure_cry_calm_course_give_round_horse_friend_among
+  bip_39_word_underscore_2: relax_maze
+  bip_39_word_underscore_3: relax_maze_dinosaur
+  bip_39_word_underscore_4: relax_maze_dinosaur_sure
+  bip_39_word_underscore_5: relax_maze_dinosaur_sure_cry
+  bip_39_word_underscore_6: relax_maze_dinosaur_sure_cry_calm
+  bip_39_word_underscore_7: relax_maze_dinosaur_sure_cry_calm_course
+  bip_39_word_underscore_8: relax_maze_dinosaur_sure_cry_calm_course_give
+  bip_39_word_underscore_9: relax_maze_dinosaur_sure_cry_calm_course_give_round
+  classification: mechanical
+  classification_capital: Mechanical
+  classification_first_letter: m
+  classification_first_letter_upper: M
+  classification_length_1: m
+  classification_length_2: me
+  classification_length_3: mec
+  classification_length_4: mech
+  classification_length_5: mecha
+  classification_length_6: mechan
+  classification_name: Mechanical
+  classification_no_space_length_1: m
+  classification_no_space_length_2: me
+  classification_no_space_length_3: mec
+  classification_no_space_length_4: mech
+  classification_no_space_length_5: mecha
+  classification_no_space_length_6: mechan
+  classification_no_space_upper_length_1: M
+  classification_no_space_upper_length_2: ME
+  classification_no_space_upper_length_3: MEC
+  classification_no_space_upper_length_4: MECH
+  classification_no_space_upper_length_5: MECHA
+  classification_no_space_upper_length_6: MECHAN
+  classification_upper: MECHANICAL
+  classification_upper_length_1: M
+  classification_upper_length_2: ME
+  classification_upper_length_3: MEC
+  classification_upper_length_4: MECH
+  classification_upper_length_5: MECHA
+  classification_upper_length_6: MECHAN
+  color: ''
+  color_capital: ''
+  color_first_letter: ''
+  color_first_letter_upper: ''
+  color_name: ''
+  color_upper: ''
+  description_extra: 39_mm_width_33_mm_height_bracket_m4_mounting_hole
+  description_extra_capital: 39 mm Width 33 mm Height Bracket M4 Mounting Hole
+  description_extra_first_letter: '3'
+  description_extra_first_letter_upper: '3'
+  description_extra_length_1: '3'
+  description_extra_length_2: '39'
+  description_extra_length_3: '39_'
+  description_extra_length_4: 39_m
+  description_extra_length_5: 39_mm
+  description_extra_length_6: 39_mm_
+  description_extra_name: 39 mm Width 33 mm Height Bracket M4 Mounting Hole
+  description_extra_no_space_length_1: '3'
+  description_extra_no_space_length_2: '39'
+  description_extra_no_space_length_3: 39m
+  description_extra_no_space_length_4: 39mm
+  description_extra_no_space_length_5: 39mmw
+  description_extra_no_space_length_6: 39mmwi
+  description_extra_no_space_upper_length_1: '3'
+  description_extra_no_space_upper_length_2: '39'
+  description_extra_no_space_upper_length_3: 39M
+  description_extra_no_space_upper_length_4: 39MM
+  description_extra_no_space_upper_length_5: 39MMW
+  description_extra_no_space_upper_length_6: 39MMWI
+  description_extra_upper: 39_MM_WIDTH_33_MM_HEIGHT_BRACKET_M4_MOUNTING_HOLE
+  description_extra_upper_length_1: '3'
+  description_extra_upper_length_2: '39'
+  description_extra_upper_length_3: '39_'
+  description_extra_upper_length_4: 39_M
+  description_extra_upper_length_5: 39_MM
+  description_extra_upper_length_6: 39_MM_
+  description_main: 25_mm_diameter_brown_plastic_wheel
+  description_main_capital: 25 mm Diameter Brown Plastic Wheel
+  description_main_first_letter: '2'
+  description_main_first_letter_upper: '2'
+  description_main_length_1: '2'
+  description_main_length_2: '25'
+  description_main_length_3: '25_'
+  description_main_length_4: 25_m
+  description_main_length_5: 25_mm
+  description_main_length_6: 25_mm_
+  description_main_name: 25 mm Diameter Brown Plastic Wheel
+  description_main_no_space_length_1: '2'
+  description_main_no_space_length_2: '25'
+  description_main_no_space_length_3: 25m
+  description_main_no_space_length_4: 25mm
+  description_main_no_space_length_5: 25mmd
+  description_main_no_space_length_6: 25mmdi
+  description_main_no_space_upper_length_1: '2'
+  description_main_no_space_upper_length_2: '25'
+  description_main_no_space_upper_length_3: 25M
+  description_main_no_space_upper_length_4: 25MM
+  description_main_no_space_upper_length_5: 25MMD
+  description_main_no_space_upper_length_6: 25MMDI
+  description_main_upper: 25_MM_DIAMETER_BROWN_PLASTIC_WHEEL
+  description_main_upper_length_1: '2'
+  description_main_upper_length_2: '25'
+  description_main_upper_length_3: '25_'
+  description_main_upper_length_4: 25_M
+  description_main_upper_length_5: 25_MM
+  description_main_upper_length_6: 25_MM_
+  description_only_numbers: '25'
+  description_only_numbers_short: '25'
+  description_or_color: '25'
+  description_or_color_upper: '25'
+  directory: parts/mechanical_wheel_caster_25_mm_diameter_brown_plastic_wheel_39_mm_width_33_mm_height_bracket_m4_mounting_hole
+  distributors: []
+  github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/mechanical_wheel_caster_25_mm_diameter_brown_plastic_wheel_39_mm_width_33_mm_height_bracket_m4_mounting_hole
+  id: mechanical_wheel_caster_25_mm_diameter_brown_plastic_wheel_39_mm_width_33_mm_height_bracket_m4_mounting_hole
+  id_no_class: wheel_caster_25_mm_diameter_brown_plastic_wheel_39_mm_width_33_mm_height_bracket_m4_mounting_hole
+  id_no_color: 25mmdiameterbrownplastic39mmwidth33mmheightbracketm4mountinghole
+  id_no_size: 25_mm_diameter_brown_plastic_39_mm_width_33_mm_height_bracket_m4_mounting_hole
+  id_no_type: caster_25_mm_diameter_brown_plastic_39_mm_width_33_mm_height_bracket_m4_mounting_hole
+  link_1: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/mechanical_wheel_caster_25_mm_diameter_brown_plastic_wheel_39_mm_width_33_mm_height_bracket_m4_mounting_hole
+  link_1_name: link_main
+  link_2: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/mechanical_wheel_caster_25_mm_diameter_brown_plastic_wheel_39_mm_width_33_mm_height_bracket_m4_mounting_hole
+  link_2_name: github_link
+  link_buy: https://www.amazon.com/dp/B0B83T6G8P
+  link_main: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/mechanical_wheel_caster_25_mm_diameter_brown_plastic_wheel_39_mm_width_33_mm_height_bracket_m4_mounting_hole
+  link_oomlout_label_2x1: http://192.168.1.242:1112/?label=oomp%204y09n
+  link_oomlout_label_3x2: http://192.168.1.245:1112/?label=oomp%204y09n
+  link_oomlout_label_6x4: http://192.168.1.55:1112/?label=oomp%204y09n
+  manufacturer: ''
+  manufacturer_capital: ''
+  manufacturer_first_letter: ''
+  manufacturer_first_letter_upper: ''
+  manufacturer_name: ''
+  manufacturer_upper: ''
+  manufacturers: []
+  markdown_full: '[mechanical_wheel_caster_25_mm_diameter_brown_plastic_wheel_39_mm_width_33_mm_height_bracket_m4_mounting_hole](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/mechanical_wheel_caster_25_mm_diameter_brown_plastic_wheel_39_mm_width_33_mm_height_bracket_m4_mounting_hole)<br>[](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/mechanical_wheel_caster_25_mm_diameter_brown_plastic_wheel_39_mm_width_33_mm_height_bracket_m4_mounting_hole)<br>[Mechanical
+    Wheel Caster 25 Mm Diameter Brown Plastic Wheel 39 Mm Width 33 Mm Height Bracket
+    M4 Mounting Hole](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/mechanical_wheel_caster_25_mm_diameter_brown_plastic_wheel_39_mm_width_33_mm_height_bracket_m4_mounting_hole)<br><br>'
+  markdown_short: '[mechanical_wheel_caster_25_mm_diameter_brown_plastic_wheel_39_mm_width_33_mm_height_bracket_m4_mounting_hole](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/mechanical_wheel_caster_25_mm_diameter_brown_plastic_wheel_39_mm_width_33_mm_height_bracket_m4_mounting_hole)<br><br>'
+  md5: 7eb9db75e3626628821a9da07ce265a8
+  md5_10: 7eb9db75e3
+  md5_10_upper: 7EB9DB75E3
+  md5_5: 7eb9d
+  md5_5_upper: 7EB9D
+  md5_6: 7eb9db
+  md5_6_alpha: 4y09n
+  md5_6_alpha_upper: 4Y09N
+  md5_6_upper: 7EB9DB
+  name: Mechanical Wheel Caster 25 mm Diameter Brown Plastic Wheel 39 mm Width 33
+    mm Height Bracket M4 Mounting Hole
+  name_no_class: Wheel Caster 25 mm Diameter Brown Plastic Wheel 39 mm Width 33 mm
+    Height Bracket M4 Mounting Hole
+  name_no_color: 25mmdiameterbrownplastic39mmwidth33mmheightbracketm4Mountinghole
+  name_no_size: 25 mm Diameter Brown Plastic 39 mm Width 33 mm Height Bracket M4 Mounting
+    Hole
+  name_no_size_short: 25 Mm Diameter Brown Plastic 39 Mm Width 33 Mm Height Bracket
+    M4 Mounting Hole
+  name_no_type: Caster 25 mm Diameter Brown Plastic 39 mm Width 33 mm Height Bracket
+    M4 Mounting Hole
+  oomlout_oomp_utility_custom_data_manipulation: true
+  oomp_key: oomp_mechanical_wheel_caster_25_mm_diameter_brown_plastic_wheel_39_mm_width_33_mm_height_bracket_m4_mounting_hole
+  oomp_word: fax fries tent
+  oomp_word_emoji: ':fax: :fries: :tent:'
+  oomp_word_emoji_list:
+  - ':fax:'
+  - ':fries:'
+  - ':tent:'
+  oomp_word_list:
+  - fax
+  - fries
+  - tent
+  part_number: ''
+  part_number_capital: ''
+  part_number_distributor_amazon: B0B83T6G8P
+  part_number_first_letter: ''
+  part_number_first_letter_upper: ''
+  part_number_name: ''
+  part_number_upper: ''
+  price_1_name: orbital_fasteners
+  price_2_name: accu
+  short_code: ''
+  short_code_upper: ''
+  short_name: Caster Wheel 25mm Black
+  size: caster
+  size_capital: Caster
+  size_first_letter: c
+  size_first_letter_upper: C
+  size_length_1: c
+  size_length_2: ca
+  size_length_3: cas
+  size_length_4: cast
+  size_length_5: caste
+  size_length_6: caster
+  size_name: Caster
+  size_no_space_length_1: c
+  size_no_space_length_2: ca
+  size_no_space_length_3: cas
+  size_no_space_length_4: cast
+  size_no_space_length_5: caste
+  size_no_space_length_6: caster
+  size_no_space_upper_length_1: C
+  size_no_space_upper_length_2: CA
+  size_no_space_upper_length_3: CAS
+  size_no_space_upper_length_4: CAST
+  size_no_space_upper_length_5: CASTE
+  size_no_space_upper_length_6: CASTER
+  size_only_numbers: ''
+  size_only_numbers_no_zeros: ''
+  size_upper: CASTER
+  size_upper_length_1: C
+  size_upper_length_2: CA
+  size_upper_length_3: CAS
+  size_upper_length_4: CAST
+  size_upper_length_5: CASTE
+  size_upper_length_6: CASTER
+  type: wheel
+  type_capital: Wheel
+  type_first_letter: w
+  type_first_letter_upper: W
+  type_length_1: w
+  type_length_2: wh
+  type_length_3: whe
+  type_length_4: whee
+  type_length_5: wheel
+  type_length_6: wheel
+  type_name: Wheel
+  type_no_space_length_1: w
+  type_no_space_length_2: wh
+  type_no_space_length_3: whe
+  type_no_space_length_4: whee
+  type_no_space_length_5: wheel
+  type_no_space_length_6: wheel
+  type_no_space_upper_length_1: W
+  type_no_space_upper_length_2: WH
+  type_no_space_upper_length_3: WHE
+  type_no_space_upper_length_4: WHEE
+  type_no_space_upper_length_5: WHEEL
+  type_no_space_upper_length_6: WHEEL
+  type_upper: WHEEL
+  type_upper_length_1: W
+  type_upper_length_2: WH
+  type_upper_length_3: WHE
+  type_upper_length_4: WHEE
+  type_upper_length_5: WHEEL
+  type_upper_length_6: WHEEL

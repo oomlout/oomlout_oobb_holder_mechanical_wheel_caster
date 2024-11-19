@@ -17,7 +17,7 @@ def make_scad(**kwargs):
         #filter = "test"
 
         kwargs["save_type"] = "none"
-        #kwargs["save_type"] = "all"
+        kwargs["save_type"] = "all"
         
         navigation = False
         #navigation = True    
@@ -25,7 +25,7 @@ def make_scad(**kwargs):
         kwargs["overwrite"] = True
         
         #kwargs["modes"] = ["3dpr", "laser", "true"]
-        kwargs["modes"] = ["3dpr"]
+        kwargs["modes"] = ["3dpr", "laser"]
         #kwargs["modes"] = ["laser"]
 
     # default variables
@@ -47,12 +47,27 @@ def make_scad(**kwargs):
         part_default["full_shift"] = [0, 0, 0]
         part_default["full_rotations"] = [0, 0, 0]
         
-        part = copy.deepcopy(part_default)
-        p3 = copy.deepcopy(kwargs)
-        #p3["thickness"] = 6
-        part["kwargs"] = p3
-        part["name"] = "base"
-        parts.append(part)
+        
+        sizes = []
+        sizes.append([5,5,6])
+        sizes.append([5,6,6])
+        sizes.append([5,7,6])
+        sizes.append([6,6,6])
+        sizes.append([7,7,6])
+
+        for size in sizes:
+            wid = size[0]
+            hei = size[1]
+            dep = size[2]
+            part = copy.deepcopy(part_default)
+            p3 = copy.deepcopy(kwargs)
+            p3["width"] = wid
+            p3["height"] = hei
+            p3["thickness"] = dep
+            p3["extra"] = "mechanical_wheel_caster_25_mm_diameter_brown_plastic_wheel_39_mm_width_33_mm_height_bracket_m4_mounting_hole"
+            part["kwargs"] = p3
+            part["name"] = "base"
+            parts.append(part)
 
         
     #make the parts
@@ -111,6 +126,9 @@ def get_base(thing, **kwargs):
     p3["pos"] = pos1
     oobb_base.append_full(thing,**p3)
 
+    get_caster(thing, **kwargs)
+
+
     if prepare_print:
         #put into a rotation object
         components_second = copy.deepcopy(thing["components"])
@@ -132,7 +150,62 @@ def get_base(thing, **kwargs):
         p3["shape"] = f"oobb_slice"
         #p3["m"] = "#"
         oobb_base.append_full(thing,**p3)
+
+def get_caster(thing, **kwargs):
+    caster = kwargs.get("extra", "") 
+    depth = kwargs.get("thickness", 3)
+    pos = kwargs.get("pos", [0, 0, 0])
+
     
+
+    if "mechanical_wheel_caster_25_mm_diameter_brown_plastic_wheel_39_mm_width_33_mm_height_bracket_m4_mounting_hole" in caster:
+        extra_lift_cube = 3
+        #add countersunk screw
+        p3 = copy.deepcopy(kwargs)
+        p3["type"] = "n"
+        p3["shape"] = f"oobb_screw_countersunk"
+        p3["radius_name"] = "m3"
+        p3["depth"] = depth + extra_lift_cube
+        pos1 = copy.deepcopy(pos)
+        pos1[2] += -extra_lift_cube
+        pos11 = copy.deepcopy(pos1)
+        shift_x = 14.5
+        shift_y = 11.65
+        pos11[0] += shift_x
+        pos11[1] += shift_y
+        pos12 = copy.deepcopy(pos1)
+        pos12[0] += -shift_x
+        pos12[1] += -shift_y
+        pos13 = copy.deepcopy(pos1)
+        pos13[0] += -shift_x
+        pos13[1] += shift_y
+        pos14 = copy.deepcopy(pos1)
+        pos14[0] += shift_x
+        pos14[1] += -shift_y
+        poss = [pos11, pos12, pos13, pos14]
+        p3["pos"] = poss
+        p3["zz"] = "bottom"
+        p3["m"] = "#"
+        oobb_base.append_full(thing,**p3)
+        #add lift cube
+        p3 = copy.deepcopy(kwargs)
+        p3["type"] = "p"
+        p3["shape"] = f"oobb_cube"
+        w = 39
+        h = 33
+        d = extra_lift_cube
+        size = [w, h, d]
+        p3["size"] = size
+        pos1 = copy.deepcopy(pos)
+        pos1[2] += -d
+        p3["pos"] = pos1
+        #p3["m"] = "#"
+        oobb_base.append_full(thing,**p3)
+
+
+
+
+
 ###### utilities
 
 

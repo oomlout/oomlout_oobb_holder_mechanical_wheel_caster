@@ -1,0 +1,20 @@
+full_rotations:
+- 0
+- 0
+- 0
+full_shift:
+- 0
+- 0
+- 0
+kwargs:
+  extra: mechanical_wheel_caster_25_mm_diameter_brown_plastic_wheel_39_mm_width_33_mm_height_bracket_m4_mounting_hole
+  height: 7
+  modes:
+  - 3dpr
+  overwrite: true
+  save_type: none
+  thickness: 6
+  type: test_base
+  width: 5
+name: base
+project_name: test
