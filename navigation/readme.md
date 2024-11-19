@@ -20,8 +20,3 @@
   * [set_screw](hardware/set_screw)
     * [m6](hardware/set_screw/m6)
       * [25_mm_length](hardware/set_screw/m6/25_mm_length)
-* [mechanical](mechanical)
-  * [wheel](mechanical/wheel)
-    * [caster](mechanical/wheel/caster)
-      * [25_mm_diameter_brown_plastic_wheel](mechanical/wheel/caster/25_mm_diameter_brown_plastic_wheel)
-        * [39_mm_width_33_mm_height_bracket_m4_mounting_hole](mechanical/wheel/caster/25_mm_diameter_brown_plastic_wheel/39_mm_width_33_mm_height_bracket_m4_mounting_hole)
