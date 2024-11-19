@@ -17,10 +17,10 @@ def make_scad(**kwargs):
         #filter = "test"
 
         kwargs["save_type"] = "none"
-        kwargs["save_type"] = "all"
+        #kwargs["save_type"] = "all"
         
         navigation = False
-        #navigation = True    
+        navigation = True    
 
         kwargs["overwrite"] = True
         
@@ -85,7 +85,7 @@ def make_scad(**kwargs):
     #generate navigation
     if navigation:
         sort = []
-        #sort.append("extra")
+        sort.append("extra")
         sort.append("width")
         sort.append("height")
         sort.append("thickness")
