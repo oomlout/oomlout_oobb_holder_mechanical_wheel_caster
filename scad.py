@@ -188,7 +188,7 @@ def add_mechanical_wheel_caster_10_mm_diameter_roller_plastic_deodorant_roller(t
     p3 = copy.deepcopy(kwargs)
     p3["type"] = "n"
     p3["shape"] = f"oobb_hole"
-    p3["radius"] = 9/2
+    p3["radius"] = 10/2
     p3["depth"] = depth
     pos1 = copy.deepcopy(pos)
     pos1[1] += 7.5
