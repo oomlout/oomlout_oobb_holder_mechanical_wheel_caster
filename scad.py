@@ -20,7 +20,7 @@ def make_scad(**kwargs):
         #kwargs["save_type"] = "all"
         
         navigation = False
-        navigation = True    
+        #navigation = True    
 
         kwargs["overwrite"] = True
         
@@ -47,6 +47,18 @@ def make_scad(**kwargs):
         part_default["full_shift"] = [0, 0, 0]
         part_default["full_rotations"] = [0, 0, 0]
         
+        wid = 3
+        hei = 2
+        dep = 3
+        part = copy.deepcopy(part_default)
+        p3 = copy.deepcopy(kwargs)
+        p3["width"] = wid
+        p3["height"] = hei
+        p3["thickness"] = dep
+        p3["extra"] = "mechanical_wheel_caster_10_mm_diameter_roller_plastic_deodorant_roller"
+        part["kwargs"] = p3
+        part["name"] = "base"
+        parts.append(part)
         
         sizes = []
         sizes.append([5,5,6])
@@ -68,6 +80,9 @@ def make_scad(**kwargs):
             part["kwargs"] = p3
             part["name"] = "base"
             parts.append(part)
+
+        
+        
 
         
     #make the parts
@@ -159,49 +174,79 @@ def get_caster(thing, **kwargs):
     
 
     if "mechanical_wheel_caster_25_mm_diameter_brown_plastic_wheel_39_mm_width_33_mm_height_bracket_m4_mounting_hole" in caster:
-        extra_lift_cube = 3
-        #add countersunk screw
-        p3 = copy.deepcopy(kwargs)
-        p3["type"] = "n"
-        p3["shape"] = f"oobb_screw_countersunk"
-        p3["radius_name"] = "m3"
-        p3["depth"] = depth + extra_lift_cube
-        pos1 = copy.deepcopy(pos)
-        pos1[2] += -extra_lift_cube
-        pos11 = copy.deepcopy(pos1)
-        shift_x = 14.5
-        shift_y = 11.65
-        pos11[0] += shift_x
-        pos11[1] += shift_y
-        pos12 = copy.deepcopy(pos1)
-        pos12[0] += -shift_x
-        pos12[1] += -shift_y
-        pos13 = copy.deepcopy(pos1)
-        pos13[0] += -shift_x
-        pos13[1] += shift_y
-        pos14 = copy.deepcopy(pos1)
-        pos14[0] += shift_x
-        pos14[1] += -shift_y
-        poss = [pos11, pos12, pos13, pos14]
-        p3["pos"] = poss
-        p3["zz"] = "bottom"
-        p3["m"] = "#"
-        oobb_base.append_full(thing,**p3)
-        #add lift cube
-        p3 = copy.deepcopy(kwargs)
-        p3["type"] = "p"
-        p3["shape"] = f"oobb_cube"
-        w = 39
-        h = 33
-        d = extra_lift_cube
-        size = [w, h, d]
-        p3["size"] = size
-        pos1 = copy.deepcopy(pos)
-        pos1[2] += -d
-        p3["pos"] = pos1
-        #p3["m"] = "#"
-        oobb_base.append_full(thing,**p3)
+        thing = add_mechanical_wheel_caster_25_mm_diameter_brown_plastic_wheel_39_mm_width_33_mm_height_bracket_m4_mounting_hole(thing, **kwargs)
+    elif "mechanical_wheel_caster_10_mm_diameter_roller_plastic_deodorant_roller" in caster:
+        thing = add_mechanical_wheel_caster_10_mm_diameter_roller_plastic_deodorant_roller(thing, **kwargs)    
 
+
+def add_mechanical_wheel_caster_10_mm_diameter_roller_plastic_deodorant_roller(thing, **kwargs):
+    pos = kwargs.get("pos", [0, 0, 0])
+    depth = kwargs.get("thickness", 3)
+
+
+    #add 9 mm hole
+    p3 = copy.deepcopy(kwargs)
+    p3["type"] = "n"
+    p3["shape"] = f"oobb_hole"
+    p3["radius"] = 9/2
+    p3["depth"] = depth
+    pos1 = copy.deepcopy(pos)
+    pos1[1] += 7.5
+    p3["pos"] = pos1
+    p3["zz"] = "bottom"
+    p3["m"] = "#"
+    oobb_base.append_full(thing,**p3)
+
+
+    return thing
+
+def add_mechanical_wheel_caster_25_mm_diameter_brown_plastic_wheel_39_mm_width_33_mm_height_bracket_m4_mounting_hole(thing, **kwargs):
+    depth = kwargs.get("thickness", 3)
+    pos = kwargs.get("pos", [0, 0, 0])
+
+    extra_lift_cube = 3
+    #add countersunk screw
+    p3 = copy.deepcopy(kwargs)
+    p3["type"] = "n"
+    p3["shape"] = f"oobb_screw_countersunk"
+    p3["radius_name"] = "m3"
+    p3["depth"] = depth + extra_lift_cube
+    pos1 = copy.deepcopy(pos)
+    pos1[2] += -extra_lift_cube
+    pos11 = copy.deepcopy(pos1)
+    shift_x = 14.5
+    shift_y = 11.65
+    pos11[0] += shift_x
+    pos11[1] += shift_y
+    pos12 = copy.deepcopy(pos1)
+    pos12[0] += -shift_x
+    pos12[1] += -shift_y
+    pos13 = copy.deepcopy(pos1)
+    pos13[0] += -shift_x
+    pos13[1] += shift_y
+    pos14 = copy.deepcopy(pos1)
+    pos14[0] += shift_x
+    pos14[1] += -shift_y
+    poss = [pos11, pos12, pos13, pos14]
+    p3["pos"] = poss
+    p3["zz"] = "bottom"
+    p3["m"] = "#"
+    oobb_base.append_full(thing,**p3)
+    #add lift cube
+    p3 = copy.deepcopy(kwargs)
+    p3["type"] = "p"
+    p3["shape"] = f"oobb_cube"
+    w = 39
+    h = 33
+    d = extra_lift_cube
+    size = [w, h, d]
+    p3["size"] = size
+    pos1 = copy.deepcopy(pos)
+    pos1[2] += -d
+    p3["pos"] = pos1
+    #p3["m"] = "#"
+    oobb_base.append_full(thing,**p3)
+        
 
 
 
@@ -291,8 +336,8 @@ def generate_navigation(folder="scad_output", sort=["width", "height", "thicknes
         if not os.path.exists(folder_destination):
             os.makedirs(folder_destination)
         if os.name == 'nt':
-            #copy a full directory
-            command = f'xcopy "{folder_source}" "{folder_destination}" /E /I'
+            #copy a full directory overwrite by default
+            command = f'xcopy "{folder_source}" "{folder_destination}" /E /I /Y'
             print(command)
             os.system(command)
         else:
