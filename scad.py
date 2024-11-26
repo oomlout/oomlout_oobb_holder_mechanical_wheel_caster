@@ -17,7 +17,7 @@ def make_scad(**kwargs):
         #filter = "test"
 
         kwargs["save_type"] = "none"
-        kwargs["save_type"] = "all"
+        #kwargs["save_type"] = "all"
         
         navigation = False
         #navigation = True    
@@ -25,7 +25,8 @@ def make_scad(**kwargs):
         kwargs["overwrite"] = True
         
         #kwargs["modes"] = ["3dpr", "laser", "true"]
-        kwargs["modes"] = ["3dpr", "laser"]
+        #kwargs["modes"] = ["3dpr", "laser"]
+        kwargs["modes"] = ["3dpr"]
         #kwargs["modes"] = ["laser"]
 
     # default variables
@@ -48,15 +49,15 @@ def make_scad(**kwargs):
         part_default["full_rotations"] = [0, 0, 0]
         
         #low profile m3 version
-        wid = 3
-        hei = 1.5
+        wid = 2
+        hei = 1
         dep = 3
         part = copy.deepcopy(part_default)
         p3 = copy.deepcopy(kwargs)
         p3["width"] = wid
         p3["height"] = hei
         p3["thickness"] = dep
-        p3["extra"] = "mechanical_wheel_caster_10_mm_diameter_roller_plastic_deodorant_roller"
+        p3["extra"] = "m3_hardware_mechanical_wheel_caster_10_mm_diameter_roller_plastic_deodorant_roller"
         part["kwargs"] = p3
         part["name"] = "base"
         parts.append(part)
@@ -74,7 +75,9 @@ def make_scad(**kwargs):
         part["name"] = "base"
         parts.append(part)
         
-
+        part = copy.deepcopy(part)
+        part["kwargs"]["height"] = 1.5
+        parts.append(part)
 
 
         sizes = []
@@ -132,6 +135,7 @@ def get_base(thing, **kwargs):
     depth = kwargs.get("thickness", 3)                    
     rot = kwargs.get("rot", [0, 0, 0])
     pos = kwargs.get("pos", [0, 0, 0])
+    extra = kwargs.get("extra", "")
     #pos = copy.deepcopy(pos)
     #pos[2] += -20
 
@@ -147,19 +151,37 @@ def get_base(thing, **kwargs):
     oobb_base.append_full(thing,**p3)
     
     #add holes seperate
-    p3 = copy.deepcopy(kwargs)
-    p3["type"] = "p"
-    p3["shape"] = f"oobb_holes"
-    if height == 1.5:
-        p3["height"] = 1
-    p3["both_holes"] = True  
-    p3["depth"] = depth
-    p3["holes"] = ["top","bottom"]
-    #p3["m"] = "#"
-    pos1 = copy.deepcopy(pos)         
-    p3["pos"] = pos1
-    oobb_base.append_full(thing,**p3)
-
+    if "m3_hardware" not in extra:
+        p3 = copy.deepcopy(kwargs)
+        p3["type"] = "p"
+        p3["shape"] = f"oobb_holes"
+        if height == 1.5:
+            p3["height"] = 1
+        p3["both_holes"] = True  
+        p3["depth"] = depth
+        p3["holes"] = ["top","bottom"]
+        #p3["m"] = "#"
+        pos1 = copy.deepcopy(pos)         
+        p3["pos"] = pos1
+        oobb_base.append_full(thing,**p3)
+    else: #m3 holes
+        p3 = copy.deepcopy(kwargs)
+        p3["type"] = "n"
+        p3["shape"] = f"oobb_screw_countersunk"        
+        p3["depth"] = depth
+        p3["m"] = "#"
+        pos1 = copy.deepcopy(pos)         
+        pos1[1] += 1.875
+        pos11 = copy.deepcopy(pos1)
+        pos11[0] += 7.5
+        pos12 = copy.deepcopy(pos1)
+        pos12[0] += -7.5
+        poss = [pos11, pos12]
+        p3["pos"] = poss
+        rot1 = copy.deepcopy(rot)
+        rot1[1] = 180
+        p3["rot"] = rot1
+        oobb_base.append_full(thing,**p3)
     get_caster(thing, **kwargs)
 
 
@@ -202,22 +224,49 @@ def add_mechanical_wheel_caster_10_mm_diameter_roller_plastic_deodorant_roller(t
     pos = kwargs.get("pos", [0, 0, 0])
     depth = kwargs.get("thickness", 3)
     height = kwargs.get("height", "")
+    extra = kwargs.get("extra", "")
 
-    #add 9 mm hole
-    p3 = copy.deepcopy(kwargs)
-    p3["type"] = "n"
-    p3["shape"] = f"oobb_hole"
-    p3["radius"] = 10/2
-    p3["depth"] = depth
-    pos1 = copy.deepcopy(pos)
-    if height == 1.5:
-        pos1[1] += 0
+    if "m3_hardware" not in extra:
+        #add 9 mm hole
+        p3 = copy.deepcopy(kwargs)
+        p3["type"] = "n"
+        p3["shape"] = f"oobb_hole"
+        p3["radius"] = 10/2
+        p3["depth"] = depth
+        pos1 = copy.deepcopy(pos)
+        if height == 1.5:
+            pos1[1] += 0
+        else:
+            pos1[1] += 7.5
+        p3["pos"] = pos1
+        p3["zz"] = "bottom"
+        p3["m"] = "#"
+        oobb_base.append_full(thing,**p3)
     else:
-        pos1[1] += 7.5
-    p3["pos"] = pos1
-    p3["zz"] = "bottom"
-    p3["m"] = "#"
-    oobb_base.append_full(thing,**p3)
+        #add 9 mm hole
+        p3 = copy.deepcopy(kwargs)
+        p3["type"] = "n"
+        p3["shape"] = f"oobb_hole"
+        p3["radius"] = 10/2
+        p3["depth"] = depth
+        pos1 = copy.deepcopy(pos)
+        shift_caster = -5.625
+        pos1[1] += shift_caster
+        p3["pos"] = pos1
+        p3["zz"] = "bottom"
+        p3["m"] = "#"
+        oobb_base.append_full(thing,**p3)
+        #add bulking up cylinder
+        p3 = copy.deepcopy(kwargs)
+        p3["type"] = "p"
+        p3["shape"] = f"oobb_cylinder"
+        p3["radius"] = 15/2
+        p3["depth"] = depth
+        pos1 = copy.deepcopy(pos)
+        pos1[1] += shift_caster
+        p3["pos"] = pos1
+        p3["zz"] = "bottom"
+        oobb_base.append_full(thing,**p3)
 
 
     return thing

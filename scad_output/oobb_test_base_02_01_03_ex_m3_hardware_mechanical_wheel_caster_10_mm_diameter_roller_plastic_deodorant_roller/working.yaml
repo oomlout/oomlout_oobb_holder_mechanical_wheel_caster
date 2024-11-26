@@ -7,14 +7,14 @@ full_shift:
 - 0
 - 0
 kwargs:
-  extra: mechanical_wheel_caster_25_mm_diameter_brown_plastic_wheel_39_mm_width_33_mm_height_bracket_m4_mounting_hole
-  height: 7
+  extra: m3_hardware_mechanical_wheel_caster_10_mm_diameter_roller_plastic_deodorant_roller
+  height: 1
   modes:
   - 3dpr
   overwrite: true
   save_type: all
-  thickness: 6
+  thickness: 3
   type: test_base
-  width: 7
+  width: 2
 name: base
 project_name: test
