@@ -17,7 +17,7 @@ def make_scad(**kwargs):
         #filter = "test"
 
         kwargs["save_type"] = "none"
-        kwargs["save_type"] = "all"
+        #kwargs["save_type"] = "all"
         
         navigation = False
         #navigation = True    
@@ -47,6 +47,20 @@ def make_scad(**kwargs):
         part_default["full_shift"] = [0, 0, 0]
         part_default["full_rotations"] = [0, 0, 0]
         
+        #low profile m3 version
+        wid = 3
+        hei = 1.5
+        dep = 3
+        part = copy.deepcopy(part_default)
+        p3 = copy.deepcopy(kwargs)
+        p3["width"] = wid
+        p3["height"] = hei
+        p3["thickness"] = dep
+        p3["extra"] = "mechanical_wheel_caster_10_mm_diameter_roller_plastic_deodorant_roller"
+        part["kwargs"] = p3
+        part["name"] = "base"
+        parts.append(part)
+        
         wid = 3
         hei = 2
         dep = 3
@@ -60,6 +74,9 @@ def make_scad(**kwargs):
         part["name"] = "base"
         parts.append(part)
         
+
+
+
         sizes = []
         sizes.append([5,5,6])
         sizes.append([5,6,6])
@@ -133,9 +150,11 @@ def get_base(thing, **kwargs):
     p3 = copy.deepcopy(kwargs)
     p3["type"] = "p"
     p3["shape"] = f"oobb_holes"
+    if height == 1.5:
+        p3["height"] = 1
     p3["both_holes"] = True  
     p3["depth"] = depth
-    p3["holes"] = "perimeter"
+    p3["holes"] = ["top","bottom"]
     #p3["m"] = "#"
     pos1 = copy.deepcopy(pos)         
     p3["pos"] = pos1
@@ -182,7 +201,7 @@ def get_caster(thing, **kwargs):
 def add_mechanical_wheel_caster_10_mm_diameter_roller_plastic_deodorant_roller(thing, **kwargs):
     pos = kwargs.get("pos", [0, 0, 0])
     depth = kwargs.get("thickness", 3)
-
+    height = kwargs.get("height", "")
 
     #add 9 mm hole
     p3 = copy.deepcopy(kwargs)
@@ -191,7 +210,10 @@ def add_mechanical_wheel_caster_10_mm_diameter_roller_plastic_deodorant_roller(t
     p3["radius"] = 10/2
     p3["depth"] = depth
     pos1 = copy.deepcopy(pos)
-    pos1[1] += 7.5
+    if height == 1.5:
+        pos1[1] += 0
+    else:
+        pos1[1] += 7.5
     p3["pos"] = pos1
     p3["zz"] = "bottom"
     p3["m"] = "#"
