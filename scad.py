@@ -79,6 +79,10 @@ def make_scad(**kwargs):
         part["kwargs"]["height"] = 1.5
         parts.append(part)
 
+        part = copy.deepcopy(part)
+        part["kwargs"]["thickness"] = 12
+        parts.append(part)
+
 
         sizes = []
         sizes.append([5,5,6])
@@ -242,6 +246,12 @@ def add_mechanical_wheel_caster_10_mm_diameter_roller_plastic_deodorant_roller(t
         p3["zz"] = "bottom"
         p3["m"] = "#"
         oobb_base.append_full(thing,**p3)
+        if depth > 3:
+            p4 = copy.deepcopy(p3)
+            p4["radius"] = 12/2
+            p4["depth"] = p4["depth"] - 3
+            p4["pos"][2] += 3
+            oobb_base.append_full(thing,**p4)
     else:
         #add 9 mm hole
         p3 = copy.deepcopy(kwargs)
