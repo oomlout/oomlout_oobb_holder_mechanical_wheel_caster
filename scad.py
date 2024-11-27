@@ -17,16 +17,16 @@ def make_scad(**kwargs):
         #filter = "test"
 
         kwargs["save_type"] = "none"
-        #kwargs["save_type"] = "all"
+        kwargs["save_type"] = "all"
         
         navigation = False
         #navigation = True    
 
         kwargs["overwrite"] = True
         
-        #kwargs["modes"] = ["3dpr", "laser", "true"]
+        kwargs["modes"] = ["3dpr", "laser", "true"]
         #kwargs["modes"] = ["3dpr", "laser"]
-        kwargs["modes"] = ["3dpr"]
+        #kwargs["modes"] = ["3dpr"]
         #kwargs["modes"] = ["laser"]
 
     # default variables
@@ -163,7 +163,10 @@ def get_base(thing, **kwargs):
             p3["height"] = 1
         p3["both_holes"] = True  
         p3["depth"] = depth
-        p3["holes"] = ["top","bottom"]
+        if width > 3:
+            p3["holes"] = ["perimeter"]    
+        else:
+            p3["holes"] = ["top","bottom"]
         #p3["m"] = "#"
         pos1 = copy.deepcopy(pos)         
         p3["pos"] = pos1
