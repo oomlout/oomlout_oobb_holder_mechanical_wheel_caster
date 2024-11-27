@@ -1,0 +1,193 @@
+parts:
+  oobb_test_base_02_01_03_ex_m3_hardware_mechanical_wheel_caster_10_mm_diameter_roller_plastic_deodorant_roller:
+    full_rotations:
+    - 0
+    - 0
+    - 0
+    full_shift:
+    - 0
+    - 0
+    - 0
+    kwargs:
+      extra: m3_hardware_mechanical_wheel_caster_10_mm_diameter_roller_plastic_deodorant_roller
+      height: 1
+      modes:
+      - 3dpr
+      overwrite: true
+      save_type: all
+      thickness: 3
+      type: test_base
+      width: 2
+    name: base
+    project_name: test
+  oobb_test_base_03_02_03_ex_mechanical_wheel_caster_10_mm_diameter_roller_plastic_deodorant_roller:
+    full_rotations:
+    - 0
+    - 0
+    - 0
+    full_shift:
+    - 0
+    - 0
+    - 0
+    kwargs:
+      extra: mechanical_wheel_caster_10_mm_diameter_roller_plastic_deodorant_roller
+      height: 2
+      modes:
+      - 3dpr
+      overwrite: true
+      save_type: all
+      thickness: 3
+      type: test_base
+      width: 3
+    name: base
+    project_name: test
+  oobb_test_base_03_1d5_03_ex_mechanical_wheel_caster_10_mm_diameter_roller_plastic_deodorant_roller:
+    full_rotations:
+    - 0
+    - 0
+    - 0
+    full_shift:
+    - 0
+    - 0
+    - 0
+    kwargs:
+      extra: mechanical_wheel_caster_10_mm_diameter_roller_plastic_deodorant_roller
+      height: 1.5
+      modes:
+      - 3dpr
+      overwrite: true
+      save_type: all
+      thickness: 3
+      type: test_base
+      width: 3
+    name: base
+    project_name: test
+  oobb_test_base_03_1d5_12_ex_mechanical_wheel_caster_10_mm_diameter_roller_plastic_deodorant_roller:
+    full_rotations:
+    - 0
+    - 0
+    - 0
+    full_shift:
+    - 0
+    - 0
+    - 0
+    kwargs:
+      extra: mechanical_wheel_caster_10_mm_diameter_roller_plastic_deodorant_roller
+      height: 1.5
+      modes:
+      - 3dpr
+      overwrite: true
+      save_type: all
+      thickness: 12
+      type: test_base
+      width: 3
+    name: base
+    project_name: test
+  ? oobb_test_base_05_05_06_ex_mechanical_wheel_caster_25_mm_diameter_brown_plastic_wheel_39_mm_width_33_mm_height_bracket_m4_mounting_hole
+  : full_rotations:
+    - 0
+    - 0
+    - 0
+    full_shift:
+    - 0
+    - 0
+    - 0
+    kwargs:
+      extra: mechanical_wheel_caster_25_mm_diameter_brown_plastic_wheel_39_mm_width_33_mm_height_bracket_m4_mounting_hole
+      height: 5
+      modes:
+      - 3dpr
+      overwrite: true
+      save_type: all
+      thickness: 6
+      type: test_base
+      width: 5
+    name: base
+    project_name: test
+  ? oobb_test_base_05_06_06_ex_mechanical_wheel_caster_25_mm_diameter_brown_plastic_wheel_39_mm_width_33_mm_height_bracket_m4_mounting_hole
+  : full_rotations:
+    - 0
+    - 0
+    - 0
+    full_shift:
+    - 0
+    - 0
+    - 0
+    kwargs:
+      extra: mechanical_wheel_caster_25_mm_diameter_brown_plastic_wheel_39_mm_width_33_mm_height_bracket_m4_mounting_hole
+      height: 6
+      modes:
+      - 3dpr
+      overwrite: true
+      save_type: all
+      thickness: 6
+      type: test_base
+      width: 5
+    name: base
+    project_name: test
+  ? oobb_test_base_05_07_06_ex_mechanical_wheel_caster_25_mm_diameter_brown_plastic_wheel_39_mm_width_33_mm_height_bracket_m4_mounting_hole
+  : full_rotations:
+    - 0
+    - 0
+    - 0
+    full_shift:
+    - 0
+    - 0
+    - 0
+    kwargs:
+      extra: mechanical_wheel_caster_25_mm_diameter_brown_plastic_wheel_39_mm_width_33_mm_height_bracket_m4_mounting_hole
+      height: 7
+      modes:
+      - 3dpr
+      overwrite: true
+      save_type: all
+      thickness: 6
+      type: test_base
+      width: 5
+    name: base
+    project_name: test
+  ? oobb_test_base_06_06_06_ex_mechanical_wheel_caster_25_mm_diameter_brown_plastic_wheel_39_mm_width_33_mm_height_bracket_m4_mounting_hole
+  : full_rotations:
+    - 0
+    - 0
+    - 0
+    full_shift:
+    - 0
+    - 0
+    - 0
+    kwargs:
+      extra: mechanical_wheel_caster_25_mm_diameter_brown_plastic_wheel_39_mm_width_33_mm_height_bracket_m4_mounting_hole
+      height: 6
+      modes:
+      - 3dpr
+      overwrite: true
+      save_type: all
+      thickness: 6
+      type: test_base
+      width: 6
+    name: base
+    project_name: test
+  ? oobb_test_base_07_07_06_ex_mechanical_wheel_caster_25_mm_diameter_brown_plastic_wheel_39_mm_width_33_mm_height_bracket_m4_mounting_hole
+  : full_rotations:
+    - 0
+    - 0
+    - 0
+    full_shift:
+    - 0
+    - 0
+    - 0
+    kwargs:
+      extra: mechanical_wheel_caster_25_mm_diameter_brown_plastic_wheel_39_mm_width_33_mm_height_bracket_m4_mounting_hole
+      height: 7
+      modes:
+      - 3dpr
+      overwrite: true
+      save_type: all
+      thickness: 6
+      type: test_base
+      width: 7
+    name: base
+    project_name: test
+project_id: oomlout_oobb_holder_mechanical_wheel_caster
+project_name: Oomlout oobb holder mechanical wheel caster
+project_repo: https://github.com/oomlout/oomlout_oobb_holder_mechanical_wheel_caster
