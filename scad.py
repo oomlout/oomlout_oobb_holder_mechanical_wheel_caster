@@ -17,7 +17,7 @@ def make_scad(**kwargs):
         #filter = "test"
 
         kwargs["save_type"] = "none"
-        #kwargs["save_type"] = "all"
+        kwargs["save_type"] = "all"
         
         navigation = False
         #navigation = True    
@@ -60,7 +60,7 @@ def make_scad(**kwargs):
         p3["extra"] = "m3_hardware_mechanical_wheel_caster_10_mm_diameter_roller_plastic_deodorant_roller"
         part["kwargs"] = p3
         part["name"] = "base"
-        parts.append(part)
+        #parts.append(part)
         
         wid = 3
         hei = 2
@@ -73,22 +73,22 @@ def make_scad(**kwargs):
         p3["extra"] = "mechanical_wheel_caster_10_mm_diameter_roller_plastic_deodorant_roller"
         part["kwargs"] = p3
         part["name"] = "base"
-        parts.append(part)
+        #parts.append(part)
         
         part = copy.deepcopy(part)
         part["kwargs"]["thickness"] = 12
-        parts.append(part)
+        #parts.append(part)
 
         part = copy.deepcopy(part)
         part["kwargs"]["height"] = 1.5
         part["kwargs"]["thickness"] = 3
-        parts.append(part)
+        #parts.append(part)
 
         part = copy.deepcopy(part)
         part["kwargs"]["height"] = 2
         part["kwargs"]["width"] = 2
         part["kwargs"]["thickness"] = 3
-        parts.append(part)
+        #parts.append(part)
 
         part = copy.deepcopy(part)
         part["kwargs"]["height"] = 2
@@ -301,7 +301,7 @@ def add_mechanical_wheel_caster_10_mm_diameter_roller_plastic_deodorant_roller(t
         p3 = copy.deepcopy(kwargs)
         p3["type"] = "n"
         p3["shape"] = f"oobb_hole"
-        p3["radius"] = 10/2
+        p3["radius"] = 9.5/2
         p3["depth"] = depth
         pos1 = copy.deepcopy(pos)
         shift_caster = -5.625

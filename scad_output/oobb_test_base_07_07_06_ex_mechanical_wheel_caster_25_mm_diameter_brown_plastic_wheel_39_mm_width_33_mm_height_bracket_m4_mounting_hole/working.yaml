@@ -14,7 +14,7 @@ kwargs:
   - laser
   - 'true'
   overwrite: true
-  save_type: none
+  save_type: all
   thickness: 6
   type: test_base
   width: 7
