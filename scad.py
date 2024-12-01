@@ -17,7 +17,7 @@ def make_scad(**kwargs):
         #filter = "test"
 
         kwargs["save_type"] = "none"
-        kwargs["save_type"] = "all"
+        #kwargs["save_type"] = "all"
         
         navigation = False
         #navigation = True    
@@ -76,8 +76,26 @@ def make_scad(**kwargs):
         parts.append(part)
         
         part = copy.deepcopy(part)
-        part["kwargs"]["height"] = 1.5
+        part["kwargs"]["thickness"] = 12
         parts.append(part)
+
+        part = copy.deepcopy(part)
+        part["kwargs"]["height"] = 1.5
+        part["kwargs"]["thickness"] = 3
+        parts.append(part)
+
+        part = copy.deepcopy(part)
+        part["kwargs"]["height"] = 2
+        part["kwargs"]["width"] = 2
+        part["kwargs"]["thickness"] = 3
+        parts.append(part)
+
+        part = copy.deepcopy(part)
+        part["kwargs"]["height"] = 2
+        part["kwargs"]["width"] = 2
+        part["kwargs"]["thickness"] = 12
+        parts.append(part)
+
 
         part = copy.deepcopy(part)
         part["kwargs"]["thickness"] = 12
@@ -165,8 +183,10 @@ def get_base(thing, **kwargs):
         p3["depth"] = depth
         if width > 3:
             p3["holes"] = ["perimeter"]    
+        elif width == 2 and height == 2:
+            p3["holes"] = ["left"]
         else:
-            p3["holes"] = ["top","bottom"]
+            p3["holes"] = ["top","bottom","left"]
         #p3["m"] = "#"
         pos1 = copy.deepcopy(pos)         
         p3["pos"] = pos1
@@ -191,6 +211,27 @@ def get_base(thing, **kwargs):
         oobb_base.append_full(thing,**p3)
     get_caster(thing, **kwargs)
 
+
+    #add nut cutouts if thickness is 12
+    if depth == 12:
+        p3 = copy.deepcopy(kwargs)
+        p3["type"] = "n"
+        p3["shape"] = f"oobb_nut"
+        p3["radius_name"] = "m6"
+        p3["overhang"] = True
+        p3["m"] = "#"
+        
+        pos1 = copy.deepcopy(pos)
+        pos1[1] = -height/2 * 15 + 7.5
+        poss = []
+        start_x = -width/2 * 15 + 7.5
+        for i in range(width):
+            pos1 = copy.deepcopy(pos1)
+            pos1[0] = start_x + i * 15            
+            p3["pos"] = pos1
+            poss.append(pos1)
+        p3["pos"] = poss
+        oobb_base.append_full(thing,**p3)
 
     if prepare_print:
         #put into a rotation object
@@ -238,7 +279,7 @@ def add_mechanical_wheel_caster_10_mm_diameter_roller_plastic_deodorant_roller(t
         p3 = copy.deepcopy(kwargs)
         p3["type"] = "n"
         p3["shape"] = f"oobb_hole"
-        p3["radius"] = 10/2
+        p3["radius"] = 10.5/2
         p3["depth"] = depth
         pos1 = copy.deepcopy(pos)
         if height == 1.5:
