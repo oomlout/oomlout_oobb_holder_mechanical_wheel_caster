@@ -274,7 +274,7 @@ def add_mechanical_wheel_caster_10_mm_diameter_roller_plastic_deodorant_roller(t
     height = kwargs.get("height", "")
     extra = kwargs.get("extra", "")
 
-    radius_caster = 9.3/2
+    radius_caster = 9.8/2
 
     if "m3_hardware" not in extra:
         #add 9 mm hole
