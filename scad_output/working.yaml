@@ -22,6 +22,52 @@ parts:
       width: 2
     name: base
     project_name: test
+  oobb_test_base_02_02_03_ex_mechanical_wheel_caster_10_mm_diameter_roller_plastic_deodorant_roller:
+    full_rotations:
+    - 0
+    - 0
+    - 0
+    full_shift:
+    - 0
+    - 0
+    - 0
+    kwargs:
+      extra: mechanical_wheel_caster_10_mm_diameter_roller_plastic_deodorant_roller
+      height: 2
+      modes:
+      - 3dpr
+      - laser
+      - 'true'
+      overwrite: true
+      save_type: all
+      thickness: 3
+      type: test_base
+      width: 2
+    name: base
+    project_name: test
+  oobb_test_base_02_02_12_ex_mechanical_wheel_caster_10_mm_diameter_roller_plastic_deodorant_roller:
+    full_rotations:
+    - 0
+    - 0
+    - 0
+    full_shift:
+    - 0
+    - 0
+    - 0
+    kwargs:
+      extra: mechanical_wheel_caster_10_mm_diameter_roller_plastic_deodorant_roller
+      height: 2
+      modes:
+      - 3dpr
+      - laser
+      - 'true'
+      overwrite: true
+      save_type: all
+      thickness: 12
+      type: test_base
+      width: 2
+    name: base
+    project_name: test
   oobb_test_base_03_02_03_ex_mechanical_wheel_caster_10_mm_diameter_roller_plastic_deodorant_roller:
     full_rotations:
     - 0
@@ -41,6 +87,29 @@ parts:
       overwrite: true
       save_type: all
       thickness: 3
+      type: test_base
+      width: 3
+    name: base
+    project_name: test
+  oobb_test_base_03_02_12_ex_mechanical_wheel_caster_10_mm_diameter_roller_plastic_deodorant_roller:
+    full_rotations:
+    - 0
+    - 0
+    - 0
+    full_shift:
+    - 0
+    - 0
+    - 0
+    kwargs:
+      extra: mechanical_wheel_caster_10_mm_diameter_roller_plastic_deodorant_roller
+      height: 2
+      modes:
+      - 3dpr
+      - laser
+      - 'true'
+      overwrite: true
+      save_type: all
+      thickness: 12
       type: test_base
       width: 3
     name: base
