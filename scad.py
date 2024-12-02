@@ -60,7 +60,7 @@ def make_scad(**kwargs):
         p3["extra"] = "m3_hardware_mechanical_wheel_caster_10_mm_diameter_roller_plastic_deodorant_roller"
         part["kwargs"] = p3
         part["name"] = "base"
-        #parts.append(part)
+        parts.append(part)
         
         wid = 3
         hei = 2
@@ -73,22 +73,22 @@ def make_scad(**kwargs):
         p3["extra"] = "mechanical_wheel_caster_10_mm_diameter_roller_plastic_deodorant_roller"
         part["kwargs"] = p3
         part["name"] = "base"
-        #parts.append(part)
+        parts.append(part)
         
         part = copy.deepcopy(part)
         part["kwargs"]["thickness"] = 12
-        #parts.append(part)
+        parts.append(part)
 
         part = copy.deepcopy(part)
         part["kwargs"]["height"] = 1.5
         part["kwargs"]["thickness"] = 3
-        #parts.append(part)
+        parts.append(part)
 
         part = copy.deepcopy(part)
         part["kwargs"]["height"] = 2
         part["kwargs"]["width"] = 2
         part["kwargs"]["thickness"] = 3
-        #parts.append(part)
+        parts.append(part)
 
         part = copy.deepcopy(part)
         part["kwargs"]["height"] = 2

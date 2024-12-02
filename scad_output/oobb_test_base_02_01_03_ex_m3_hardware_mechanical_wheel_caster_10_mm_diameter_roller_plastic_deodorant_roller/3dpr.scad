@@ -65,7 +65,7 @@ difference() {
 			}
 		}
 		#translate(v = [0, -5.6250000000, 0]) {
-			cylinder(h = 3, r = 5.0000000000);
+			cylinder(h = 3, r = 4.7500000000);
 		}
 	}
 }
