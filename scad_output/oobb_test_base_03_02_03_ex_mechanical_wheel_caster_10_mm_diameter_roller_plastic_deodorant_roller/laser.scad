@@ -146,7 +146,7 @@ difference() {
 			cylinder(h = 200, r = 1.5000000000);
 		}
 		#translate(v = [0, 7.5000000000, 0]) {
-			cylinder(h = 3, r = 5.2500000000);
+			cylinder(h = 3, r = 4.6500000000);
 		}
 	}
 }

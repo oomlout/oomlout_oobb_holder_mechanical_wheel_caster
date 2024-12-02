@@ -274,12 +274,14 @@ def add_mechanical_wheel_caster_10_mm_diameter_roller_plastic_deodorant_roller(t
     height = kwargs.get("height", "")
     extra = kwargs.get("extra", "")
 
+    radius_caster = 9.3/2
+
     if "m3_hardware" not in extra:
         #add 9 mm hole
         p3 = copy.deepcopy(kwargs)
         p3["type"] = "n"
         p3["shape"] = f"oobb_hole"
-        p3["radius"] = 10.5/2
+        p3["radius"] = radius_caster
         p3["depth"] = depth
         pos1 = copy.deepcopy(pos)
         if height == 1.5:
@@ -301,7 +303,7 @@ def add_mechanical_wheel_caster_10_mm_diameter_roller_plastic_deodorant_roller(t
         p3 = copy.deepcopy(kwargs)
         p3["type"] = "n"
         p3["shape"] = f"oobb_hole"
-        p3["radius"] = 9.5/2
+        p3["radius"] = radius_caster
         p3["depth"] = depth
         pos1 = copy.deepcopy(pos)
         shift_caster = -5.625
